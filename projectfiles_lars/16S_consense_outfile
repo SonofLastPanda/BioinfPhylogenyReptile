@@ -1,0 +1,97 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. A crist
+  2. I iguana
+  3. L boring
+  4. B micro
+  5. H marmo
+  6. R schleg
+  7. R denny
+  8. T carni
+  9. P brev
+  10. L atifi
+
+  11. S salam
+  12. M muscul
+  13. G chinen
+  14. C chama
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of  100.00
+
+.........* *...             100.00
+.......**. ....             100.00
+.....**... ....             100.00
+.......*** *...             100.00
+..******** ****             100.00
+..******** **..             100.00
+..*****... ....             98.00
+....***... ....             93.00
+..******** *...             64.00
+..******** ***.             53.00
+..**...... ....             36.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of  100.00
+
+.......... ..**             47.00
+..*.***... ....             33.00
+.......*** **..             30.00
+...****... ....             30.00
+..*****... .*..              5.00
+..*..**... ....              3.00
+...**..... ....              2.00
+..*.*..... ....              1.00
+..**.**... ....              1.00
+...*.**... ....              1.00
+...******* **..              1.00
+....***... .*..              1.00
+..**...*** *...              1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of 100.00 trees
+
+                          +-----------------------------------------------G chinen
+                          |
+                          |                                       +-------T carni
+                          |                               +-100.0-|
+                          |                               |       +-------P brev
+                          |               +---------100.0-|
+                          |               |               |       +-------L atifi
+                  +--53.0-|               |               +-100.0-|
+                  |       |               |                       +-------S salam
+                  |       |       +--64.0-|
+                  |       |       |       |                       +-------R schleg
+                  |       |       |       |               +-100.0-|
+                  |       |       |       |       +--93.0-|       +-------R denny
+                  |       |       |       |       |       |
+          +-100.0-|       +-100.0-|       +--98.0-|       +---------------H marmo
+          |       |               |               |
+          |       |               |               |               +-------L boring
+          |       |               |               +----------36.0-|
+          |       |               |                               +-------B micro
+  +-------|       |               |
+  |       |       |               +---------------------------------------M muscul
+  |       |       |
+  |       |       +-------------------------------------------------------C chama
+  |       |
+  |       +---------------------------------------------------------------I iguana
+  |
+  +-----------------------------------------------------------------------A crist
+
+
+  remember: this is an unrooted tree!
+

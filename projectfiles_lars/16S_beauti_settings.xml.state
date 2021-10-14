@@ -1,0 +1,26 @@
+<itsabeastystatewerein version='2.0' sample='10000000'>
+<statenode id='Tree.t:16S_alignment'>(((((13:0.07391818150853723,9:0.07391818150853723)16:0.03745284353517561,(6:0.049815208139466556,12:0.049815208139466556)15:0.06155581690424628)21:0.107257246338602,8:0.21862827138231483)14:0.04410596106996023,((1:0.18480173358689844,7:0.18480173358689844)19:0.03971257648193341,((10:0.05778142065797283,11:0.05778142065797283)23:0.11561847334256374,4:0.17339989400053657)25:0.05111441606829528)20:0.03821992238344321)17:0.06777768536970707,((2:0.23507215289276795,(0:0.07244155419029176,5:0.07244155419029176)24:0.1626305987024762)22:0.03818945474006408,3:0.273261607632832)18:0.05725031018915011)26:0.0</statenode>
+<statenode id='birthRate.t:16S_alignment'>birthRate.t:16S_alignment[1 1] (-Infinity,Infinity): 5.452621116881711 </statenode>
+<statenode id='rateAC.s:16S_alignment'>rateAC.s:16S_alignment[1 1] (0.0,Infinity): 0.524057192244584 </statenode>
+<statenode id='rateAT.s:16S_alignment'>rateAT.s:16S_alignment[1 1] (0.0,Infinity): 0.631746799754101 </statenode>
+<statenode id='rateCG.s:16S_alignment'>rateCG.s:16S_alignment[1 1] (0.0,Infinity): 0.04588233531930305 </statenode>
+<statenode id='rateGT.s:16S_alignment'>rateGT.s:16S_alignment[1 1] (0.0,Infinity): 0.10996225265850246 </statenode>
+<statenode id='freqParameter.s:16S_alignment'>freqParameter.s:16S_alignment[4 1] (0.0,1.0): 0.3231749360825369 0.2635271572968343 0.15673935022935906 0.2565585563912694 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"YuleBirthRateScaler.t:16S_alignment","p":0.2704609171888302,"accept":105568,"reject":292690,"acceptFC":104592,"rejectFC":292418,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelTreeScaler.t:16S_alignment","p":0.843471699153002,"accept":61693,"reject":334894,"acceptFC":61651,"rejectFC":333791,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelTreeRootScaler.t:16S_alignment","p":0.8159940016359866,"accept":61337,"reject":336718,"acceptFC":61288,"rejectFC":335548,"rejectIv":32606,"rejectOp":32606},
+{"id":"YuleModelUniformOperator.t:16S_alignment","p":"NaN","accept":564194,"reject":3410031,"acceptFC":562467,"rejectFC":3399491,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelSubtreeSlide.t:16S_alignment","p":0.10392768271329697,"accept":129454,"reject":1858457,"acceptFC":129405,"rejectFC":1852308,"rejectIv":471724,"rejectOp":471724},
+{"id":"YuleModelNarrow.t:16S_alignment","p":"NaN","accept":5662,"reject":1979872,"acceptFC":5597,"rejectFC":1973923,"rejectIv":0,"rejectOp":0},
+{"id":"YuleModelWide.t:16S_alignment","p":"NaN","accept":54,"reject":396182,"acceptFC":54,"rejectFC":394964,"rejectIv":206138,"rejectOp":206138},
+{"id":"YuleModelWilsonBalding.t:16S_alignment","p":"NaN","accept":35,"reject":396705,"acceptFC":33,"rejectFC":395485,"rejectIv":91464,"rejectOp":91464},
+{"id":"RateACScaler.s:16S_alignment","p":0.6873987158505557,"accept":2640,"reject":10646,"acceptFC":2636,"rejectFC":10618,"rejectIv":0,"rejectOp":0},
+{"id":"RateATScaler.s:16S_alignment","p":0.6320489672250426,"accept":1799,"reject":11446,"acceptFC":1790,"rejectFC":11411,"rejectIv":0,"rejectOp":0},
+{"id":"RateCGScaler.s:16S_alignment","p":0.22619448269528242,"accept":3984,"reject":9362,"acceptFC":3970,"rejectFC":9341,"rejectIv":0,"rejectOp":0},
+{"id":"RateGTScaler.s:16S_alignment","p":0.3549789842536926,"accept":3067,"reject":10127,"acceptFC":3048,"rejectFC":10102,"rejectIv":0,"rejectOp":0},
+{"id":"FrequenciesExchanger.s:16S_alignment","p":0.027569585514685854,"accept":4103,"reject":9281,"acceptFC":4077,"rejectFC":9268,"rejectIv":0,"rejectOp":0}
+]}
+-->

@@ -1,0 +1,7 @@
+begin paup;
+exec cytB_alignment.fasta.nexus;
+set criterion=parsimony;
+hsearch;
+savetrees file=cytB_pauptree.tre format=phylip brlens;
+end;
+quit;

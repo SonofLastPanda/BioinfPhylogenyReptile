@@ -1,0 +1,6705 @@
+
+  14 Populations
+
+Neighbor-Joining/UPGMA method version 3.697
+
+Data set # 1:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-----R_denny   
+  +---2 
+  !   +----R_schleg  
+  ! 
+  !       +--------B_micro   
+  !       !  
+  !       !        +----A_crist   
+  !    +-11    +---1 
+  !    !  !  +-7   +----I_iguana  
+  !    !  !  ! ! 
+  !    !  +-12 +-----------G_chinen  
+  !    !     !  
+  !    !     +----------L_boring  
+  ! +-10  
+  ! !  !      +---S_salam   
+  ! !  !    +-3 
+  ! !  !    ! +-----L_atifi   
+  ! !  ! +--5 
+  6-8  ! !  ! +-------T_carni   
+  ! !  +-9  +-4 
+  ! !    !    +-------P_brev    
+  ! !    ! 
+  ! !    +---------M_muscul  
+  ! ! 
+  ! +----------H_marmo   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             2            0.06091
+   2          R_denny         0.10924
+   2          R_schleg        0.08928
+   6             8            0.01526
+   8            10            0.01395
+  10            11            0.00835
+  11          B_micro         0.14043
+  11            12            0.00375
+  12             7            0.01408
+   7             1            0.05881
+   1          A_crist         0.08218
+   1          I_iguana        0.08289
+   7          G_chinen        0.20085
+  12          L_boring        0.16915
+  10             9            0.00764
+   9             5            0.04140
+   5             3            0.03337
+   3          S_salam         0.07625
+   3          L_atifi         0.09904
+   5             4            0.01219
+   4          T_carni         0.12493
+   4          P_brev          0.13071
+   9          M_muscul        0.16698
+   8          H_marmo         0.18956
+   6          C_chama         0.24465
+
+
+Data set # 2:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +-----S_salam   
+        +--3 
+        !  +----L_atifi   
+      +-5 
+      ! ! +------T_carni   
+      ! +-4 
+    +-9   +--------P_brev    
+    ! ! 
+    ! !  +------------H_marmo   
+    ! +-11  
+    !    !  +-----------M_muscul  
+  +-8    +-12  
+  ! !       !  +---------L_boring  
+  ! !       +-10  
+  ! !          +---------B_micro   
+  ! ! 
+  ! !     +------R_denny   
+  ! +-----1 
+  !       +-----R_schleg  
+  ! 
+  !     +------I_iguana  
+  ! +---2 
+  7-6   +-----A_crist   
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.02043
+   8             9            0.00593
+   9             5            0.03664
+   5             3            0.04942
+   3          S_salam         0.10436
+   3          L_atifi         0.09165
+   5             4            0.01207
+   4          T_carni         0.12287
+   4          P_brev          0.15390
+   9            11            0.00787
+  11          H_marmo         0.20967
+  11            12            0.00210
+  12          M_muscul        0.19365
+  12            10            0.00730
+  10          L_boring        0.16501
+  10          B_micro         0.18044
+   8             1            0.09998
+   1          R_denny         0.11646
+   1          R_schleg        0.09924
+   7             6            0.00483
+   6             2            0.06819
+   2          I_iguana        0.10729
+   2          A_crist         0.09519
+   6          G_chinen        0.18095
+   7          C_chama         0.25889
+
+
+Data set # 3:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +------------H_marmo   
+  ! 
+  !     +-----R_schleg  
+  ! +---1 
+  ! !   +-------R_denny   
+  ! ! 
+  ! !   +---------B_micro   
+  6-7 +-8 
+  ! ! ! +----------L_boring  
+  ! ! ! 
+  ! ! !    +-------P_brev    
+  ! +-9    ! 
+  !   !  +-5    +----S_salam   
+  !   !  ! ! +--3 
+  !   !  ! +-4  +---L_atifi   
+  !   !  !   ! 
+  !   +-11   +-------T_carni   
+  !      !  
+  !      !  +---------M_muscul  
+  !      !  !  
+  !      +-12      +----A_crist   
+  !         !  +---2 
+  !         +-10   +----I_iguana  
+  !            !  
+  !            +------------G_chinen  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          H_marmo         0.21651
+   6             7            0.00933
+   7             1            0.07321
+   1          R_schleg        0.10610
+   1          R_denny         0.12986
+   7             9            0.01822
+   9             8            0.01357
+   8          B_micro         0.15775
+   8          L_boring        0.17931
+   9            11            0.01016
+  11             5            0.03290
+   5          P_brev          0.13604
+   5             4            0.01602
+   4             3            0.04156
+   3          S_salam         0.08041
+   3          L_atifi         0.07547
+   4          T_carni         0.13420
+  11            12            0.00860
+  12          M_muscul        0.16812
+  12            10            0.00952
+  10             2            0.05901
+   2          A_crist         0.08920
+   2          I_iguana        0.08455
+  10          G_chinen        0.20790
+   6          C_chama         0.21993
+
+
+Data set # 4:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +----------M_muscul  
+    ! 
+    !      +-----L_atifi   
+    !   +--3 
+  +-8   !  +----S_salam   
+  ! ! +-5 
+  ! ! ! ! +-------T_carni   
+  ! ! ! +-4 
+  ! ! !   +-------P_brev    
+  ! +-9 
+  !   !         +------R_denny   
+  !   !     +---1 
+  !   !  +-10   +-----R_schleg  
+  !   !  !  !  
+  !   +-11  +-------------H_marmo   
+  !      !  
+  !      !  +-----------L_boring  
+  !      +-12  
+  !         +---------B_micro   
+  ! 
+  !    +-----I_iguana  
+  ! +--2 
+  7-6  +-----A_crist   
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.01156
+   8          M_muscul        0.19033
+   8             9            0.00681
+   9             5            0.03663
+   5             3            0.04128
+   3          L_atifi         0.10007
+   3          S_salam         0.09537
+   5             4            0.01473
+   4          T_carni         0.13521
+   4          P_brev          0.12719
+   9            11            0.01766
+  11            10            0.00778
+  10             1            0.06581
+   1          R_denny         0.11897
+   1          R_schleg        0.09871
+  10          H_marmo         0.23486
+  11            12            0.00416
+  12          L_boring        0.20011
+  12          B_micro         0.16138
+   7             6            0.01719
+   6             2            0.04470
+   2          I_iguana        0.09922
+   2          A_crist         0.10252
+   6          G_chinen        0.18089
+   7          C_chama         0.24295
+
+
+Data set # 5:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +------------H_marmo   
+    ! 
+    !            +-----I_iguana  
+    !         +--1 
+    !       +-6  +----A_crist   
+    !       ! ! 
+  +-8    +-10 +---------G_chinen  
+  ! !    !  !  
+  ! ! +-11  +----------L_boring  
+  ! ! !  !  
+  ! ! !  !  +----------M_muscul  
+  ! ! !  +-12  
+  ! +-9     +--------B_micro   
+  !   ! 
+  !   !    +-------T_carni   
+  !   !  +-4 
+  !   !  ! +-------P_brev    
+  !   +--5 
+  !      ! +-----L_atifi   
+  !      +-3 
+  !        +-----S_salam   
+  ! 
+  !  +------R_denny   
+  7--2 
+  !  +------R_schleg  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.01485
+   8          H_marmo         0.22292
+   8             9            0.00872
+   9            11            0.01482
+  11            10            0.01156
+  10             6            0.02684
+   6             1            0.06220
+   1          I_iguana        0.08707
+   1          A_crist         0.08247
+   6          G_chinen        0.17912
+  10          L_boring        0.18365
+  11            12            0.00603
+  12          M_muscul        0.18444
+  12          B_micro         0.15935
+   9             5            0.03721
+   5             4            0.01069
+   4          T_carni         0.12123
+   4          P_brev          0.13663
+   5             3            0.03438
+   3          L_atifi         0.10144
+   3          S_salam         0.09907
+   7             2            0.05641
+   2          R_denny         0.11495
+   2          R_schleg        0.11466
+   7          C_chama         0.24761
+
+
+Data set # 6:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+         +----I_iguana  
+    +----1 
+  +-6    +----A_crist   
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  !     +-------------H_marmo   
+  !  +-12  
+  !  !  !  +-----------L_boring  
+  !  !  +-11  
+  !  !     !    +-----R_schleg  
+  !  !     +----2 
+  !  !          +-------R_denny   
+  !  !  
+  7-10          +-----S_salam   
+  !  !       +--3 
+  !  !     +-4  +-----L_atifi   
+  !  !     ! ! 
+  !  !   +-5 +-------T_carni   
+  !  !   ! ! 
+  !  ! +-8 +---------P_brev    
+  !  ! ! ! 
+  !  +-9 +---------M_muscul  
+  !    ! 
+  !    +---------B_micro   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             6            0.01292
+   6             1            0.07918
+   1          I_iguana        0.08723
+   1          A_crist         0.08489
+   6          G_chinen        0.21866
+   7            10            0.02111
+  10            12            0.00631
+  12          H_marmo         0.23921
+  12            11            0.00322
+  11          L_boring        0.19477
+  11             2            0.08014
+   2          R_schleg        0.09944
+   2          R_denny         0.13482
+  10             9            0.01225
+   9             8            0.01252
+   8             5            0.02633
+   5             4            0.01526
+   4             3            0.05313
+   3          S_salam         0.09436
+   3          L_atifi         0.09521
+   4          T_carni         0.13716
+   5          P_brev          0.15280
+   8          M_muscul        0.16392
+   9          B_micro         0.15878
+   7          C_chama         0.22528
+
+
+Data set # 7:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +-----------G_chinen  
+  +-6 
+  ! !    +-----I_iguana  
+  ! +----1 
+  !      +----A_crist   
+  ! 
+  !          +-----R_schleg  
+  !     +----2 
+  !     !    +-------R_denny   
+  !     !  
+  !  +-12    +----------M_muscul  
+  !  !  !  +-9 
+  !  !  !  ! +----------B_micro   
+  !  !  !  !  
+  !  !  +-10   +--------P_brev    
+  !  !     ! +-4 
+  7-11     ! ! +-------T_carni   
+  !  !     +-5 
+  !  !       ! +------L_atifi   
+  !  !       +-3 
+  !  !         +------S_salam   
+  !  !  
+  !  ! +----------L_boring  
+  !  +-8 
+  !    +------------H_marmo   
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             6            0.00683
+   6          G_chinen        0.19814
+   6             1            0.07194
+   1          I_iguana        0.10307
+   1          A_crist         0.08503
+   7            11            0.01740
+  11            12            0.00306
+  12             2            0.07980
+   2          R_schleg        0.10675
+   2          R_denny         0.12562
+  12            10            0.00698
+  10             9            0.00622
+   9          M_muscul        0.18330
+   9          B_micro         0.17588
+  10             5            0.04192
+   5             4            0.01312
+   4          P_brev          0.14300
+   4          T_carni         0.12868
+   5             3            0.03378
+   3          L_atifi         0.10557
+   3          S_salam         0.10665
+  11             8            0.01411
+   8          L_boring        0.18184
+   8          H_marmo         0.21666
+   7          C_chama         0.26659
+
+
+Data set # 8:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  ! 
+  !    +-----A_crist   
+  ! +--2 
+  ! !  +-----I_iguana  
+  ! ! 
+  ! !  +---------M_muscul  
+  6-7  !  
+  ! !  !            +------R_denny   
+  ! !  !       +----1 
+  ! !  !     +-9    +-----R_schleg  
+  ! +-11     ! ! 
+  !    !  +-10 +---------B_micro   
+  !    !  !  !  
+  !    !  !  ! +------------H_marmo   
+  !    !  !  +-8 
+  !    !  !    +-----------L_boring  
+  !    +-12  
+  !       !   +-------T_carni   
+  !       ! +-4 
+  !       ! ! ! +-----S_salam   
+  !       +-5 +-3 
+  !         !   +-----L_atifi   
+  !         ! 
+  !         +--------P_brev    
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.20283
+   6             7            0.01158
+   7             2            0.05689
+   2          A_crist         0.09845
+   2          I_iguana        0.09386
+   7            11            0.03383
+  11          M_muscul        0.17575
+  11            12            0.00274
+  12            10            0.00562
+  10             9            0.01291
+   9             1            0.08533
+   1          R_denny         0.11142
+   1          R_schleg        0.09679
+   9          B_micro         0.15863
+  10             8            0.01719
+   8          H_marmo         0.21748
+   8          L_boring        0.18796
+  12             5            0.03595
+   5             4            0.02019
+   4          T_carni         0.12112
+   4             3            0.03205
+   3          S_salam         0.09431
+   3          L_atifi         0.10259
+   5          P_brev          0.14833
+   6          C_chama         0.24132
+
+
+Data set # 9:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  ! 
+  !      +-----I_iguana  
+  ! +----2 
+  ! !    +-----A_crist   
+  ! ! 
+  ! !    +---------B_micro   
+  6-7  +-8 
+  ! !  ! +----------M_muscul  
+  ! !  !  
+  ! !  !       +-----S_salam   
+  ! !  !    +--3 
+  ! +-12    !  +-----L_atifi   
+  !    !  +-5 
+  !    !  ! ! +------T_carni   
+  !    !  ! +-4 
+  !    !  !   +--------P_brev    
+  !    +-11  
+  !       !          +-------R_denny   
+  !       !    +-----1 
+  !       !  +-9     +-----R_schleg  
+  !       !  ! ! 
+  !       +-10 +--------------H_marmo   
+  !          !  
+  !          +-----------L_boring  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.20195
+   6             7            0.00587
+   7             2            0.07424
+   2          I_iguana        0.10594
+   2          A_crist         0.10935
+   7            12            0.02561
+  12             8            0.01710
+   8          B_micro         0.17622
+   8          M_muscul        0.18887
+  12            11            0.00325
+  11             5            0.03371
+   5             3            0.04777
+   3          S_salam         0.09516
+   3          L_atifi         0.10003
+   5             4            0.02426
+   4          T_carni         0.12391
+   4          P_brev          0.14989
+  11            10            0.01253
+  10             9            0.00946
+   9             1            0.08745
+   1          R_denny         0.13999
+   1          R_schleg        0.10971
+   9          H_marmo         0.23606
+  10          L_boring        0.19576
+   6          C_chama         0.25561
+
+
+Data set # 10:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  ! 
+  !     +----A_crist   
+  ! +---1 
+  ! !   +-----I_iguana  
+  ! ! 
+  ! !      +------P_brev    
+  ! !    +-4 
+  6-8    ! +------T_carni   
+  ! !  +-5 
+  ! !  ! !  +-----L_atifi   
+  ! !  ! +--2 
+  ! !  !    +----S_salam   
+  ! !  !  
+  ! +-11       +-------R_denny   
+  !    !    +--3 
+  !    !  +-7  +------R_schleg  
+  !    !  ! ! 
+  !    !  ! +------------H_marmo   
+  !    +-12  
+  !       !  +---------L_boring  
+  !       +-10  
+  !          ! +----------M_muscul  
+  !          +-9 
+  !            +--------B_micro   
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.18983
+   6             8            0.01543
+   8             1            0.07130
+   1          A_crist         0.08106
+   1          I_iguana        0.09593
+   8            11            0.01371
+  11             5            0.03962
+   5             4            0.01450
+   4          P_brev          0.11943
+   4          T_carni         0.11753
+   5             2            0.05578
+   2          L_atifi         0.09397
+   2          S_salam         0.07611
+  11            12            0.00304
+  12             7            0.01762
+   7             3            0.05689
+   3          R_denny         0.13137
+   3          R_schleg        0.10373
+   7          H_marmo         0.21106
+  12            10            0.00399
+  10          L_boring        0.16552
+  10             9            0.00800
+   9          M_muscul        0.18511
+   9          B_micro         0.14955
+   6          C_chama         0.22386
+
+
+Data set # 11:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +----I_iguana  
+  +---2 
+  !   +----A_crist   
+  ! 
+  ! +------------G_chinen  
+  ! ! 
+  ! !            +------R_schleg  
+  ! !       +----1 
+  ! !     +-8    +-------R_denny   
+  ! !     ! ! 
+  6-7     ! +-------------H_marmo   
+  ! !  +-12  
+  ! !  !  !    +----------M_muscul  
+  ! !  !  !  +-9 
+  ! !  !  +-10 +---------B_micro   
+  ! !  !     !  
+  ! +-11     +-----------L_boring  
+  !    !  
+  !    !   +-------P_brev    
+  !    ! +-4 
+  !    ! ! +------T_carni   
+  !    +-5 
+  !      !  +-----L_atifi   
+  !      +--3 
+  !         +-----S_salam   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             2            0.05996
+   2          I_iguana        0.09756
+   2          A_crist         0.09530
+   6             7            0.01138
+   7          G_chinen        0.21632
+   7            11            0.02446
+  11            12            0.00514
+  12             8            0.01572
+   8             1            0.08466
+   1          R_schleg        0.10663
+   1          R_denny         0.13223
+   8          H_marmo         0.23247
+  12            10            0.00875
+  10             9            0.01163
+   9          M_muscul        0.18819
+   9          B_micro         0.17942
+  10          L_boring        0.20608
+  11             5            0.03343
+   5             4            0.02657
+   4          P_brev          0.13917
+   4          T_carni         0.12043
+   5             3            0.04892
+   3          L_atifi         0.10046
+   3          S_salam         0.09864
+   6          C_chama         0.22611
+
+
+Data set # 12:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+              +----I_iguana  
+          +---2 
+        +-8   +-----A_crist   
+        ! ! 
+        ! +-----------G_chinen  
+        !  
+     +-11      +-----L_atifi   
+     !  !    +-3 
+     !  !  +-4 +----S_salam   
+     !  !  ! ! 
+     !  +--5 +-------T_carni   
+  +-12     ! 
+  !  !     +-------P_brev    
+  !  !  
+  !  !    +---------L_boring  
+  !  !  +-9 
+  !  +-10 +--------B_micro   
+  !     !  
+  !     +-----------M_muscul  
+  ! 
+  ! +-----------H_marmo   
+  7-6 
+  ! !    +-----R_schleg  
+  ! +----1 
+  !      +-------R_denny   
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            12            0.01549
+  12            11            0.00086
+  11             8            0.01441
+   8             2            0.06983
+   2          I_iguana        0.09000
+   2          A_crist         0.09590
+   8          G_chinen        0.19980
+  11             5            0.04736
+   5             4            0.01023
+   4             3            0.03116
+   3          L_atifi         0.09118
+   3          S_salam         0.08627
+   4          T_carni         0.13002
+   5          P_brev          0.13553
+  12            10            0.00402
+  10             9            0.00930
+   9          L_boring        0.17409
+   9          B_micro         0.16203
+  10          M_muscul        0.19048
+   7             6            0.01680
+   6          H_marmo         0.19848
+   6             1            0.08608
+   1          R_schleg        0.09710
+   1          R_denny         0.13005
+   7          C_chama         0.26924
+
+
+Data set # 13:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+            +-------------H_marmo   
+          +-7 
+          ! !  +--------R_denny   
+          ! +--1 
+       +-10    +------R_schleg  
+       !  !  
+       !  ! +---------B_micro   
+       !  +-9 
+    +-11    +----------L_boring  
+    !  !  
+    !  !  +------------M_muscul  
+    !  !  !  
+    !  +-12   +--------P_brev    
+    !     ! +-4 
+  +-8     ! ! +-------T_carni   
+  ! !     +-5 
+  ! !       !  +-----L_atifi   
+  ! !       +--2 
+  ! !          +------S_salam   
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  !  +----A_crist   
+  6--3 
+  !  +-----I_iguana  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             8            0.01607
+   8            11            0.01518
+  11            10            0.01339
+  10             7            0.02148
+   7          H_marmo         0.23568
+   7             1            0.05642
+   1          R_denny         0.13808
+   1          R_schleg        0.10354
+  10             9            0.00742
+   9          B_micro         0.16782
+   9          L_boring        0.17760
+  11            12            0.00750
+  12          M_muscul        0.20598
+  12             5            0.03288
+   5             4            0.01519
+   4          P_brev          0.14115
+   4          T_carni         0.12799
+   5             2            0.05201
+   2          L_atifi         0.09448
+   2          S_salam         0.10774
+   8          G_chinen        0.21207
+   6             3            0.04520
+   3          A_crist         0.09463
+   3          I_iguana        0.09719
+   6          C_chama         0.24556
+
+
+Data set # 14:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +----R_schleg  
+       +-----1 
+     +-6     +------R_denny   
+     ! ! 
+     ! +------------H_marmo   
+     !  
+     !         +--------P_brev    
+     !       +-4 
+  +-10       ! +------T_carni   
+  !  !    +--5 
+  !  !    !  !  +----S_salam   
+  !  !  +-9  +--3 
+  !  !  ! !     +-----L_atifi   
+  !  !  ! ! 
+  !  +-11 +----------M_muscul  
+  !     !  
+  !     !  +----------L_boring  
+  !     +-12  
+  !        +---------B_micro   
+  ! 
+  ! +-----------G_chinen  
+  8-7 
+  ! !   +-----I_iguana  
+  ! +---2 
+  !     +-----A_crist   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8            10            0.01904
+  10             6            0.02143
+   6             1            0.09035
+   1          R_schleg        0.08365
+   1          R_denny         0.12528
+   6          H_marmo         0.21393
+  10            11            0.00846
+  11             9            0.01281
+   9             5            0.04111
+   5             4            0.01050
+   4          P_brev          0.15058
+   4          T_carni         0.13237
+   5             3            0.04682
+   3          S_salam         0.09172
+   3          L_atifi         0.09790
+   9          M_muscul        0.18173
+  11            12            0.00824
+  12          L_boring        0.18667
+  12          B_micro         0.15727
+   8             7            0.01140
+   7          G_chinen        0.19910
+   7             2            0.06614
+   2          I_iguana        0.10381
+   2          A_crist         0.09768
+   8          C_chama         0.24774
+
+
+Data set # 15:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +-----I_iguana  
+     +--1 
+  +-11  +-----A_crist   
+  !  !  
+  !  +-----------G_chinen  
+  !  
+  !        +---------L_boring  
+  !      +-6 
+  !      ! +-------------H_marmo   
+  !    +-7 
+  !    ! !   +-------R_denny   
+  !    ! +---2 
+  !  +-9     +-----R_schleg  
+  !  ! ! 
+  !  ! ! +--------B_micro   
+  !  ! +-8 
+ 12-10   +-----------M_muscul  
+  !  !  
+  !  !    +-------T_carni   
+  !  !  +-4 
+  !  !  ! +-------P_brev    
+  !  +--5 
+  !     ! +-----S_salam   
+  !     +-3 
+  !       +-----L_atifi   
+  !  
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+  12            11            0.00953
+  11             1            0.06448
+   1          I_iguana        0.09492
+   1          A_crist         0.08594
+  11          G_chinen        0.20699
+  12            10            0.01680
+  10             9            0.00883
+   9             7            0.01735
+   7             6            0.01283
+   6          L_boring        0.16637
+   6          H_marmo         0.22296
+   7             2            0.06914
+   2          R_denny         0.13587
+   2          R_schleg        0.11071
+   9             8            0.01393
+   8          B_micro         0.15106
+   8          M_muscul        0.19517
+  10             5            0.04193
+   5             4            0.02630
+   4          T_carni         0.12553
+   4          P_brev          0.13363
+   5             3            0.04133
+   3          S_salam         0.09791
+   3          L_atifi         0.09168
+  12          C_chama         0.25292
+
+
+Data set # 16:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +----S_salam   
+        +--3 
+        !  +----L_atifi   
+      +-7 
+      ! ! +-------T_carni   
+    +-8 +-6 
+    ! !   +-------P_brev    
+    ! ! 
+    ! +-----------M_muscul  
+    ! 
+  +-9         +------R_schleg  
+  ! !     +---2 
+  ! !  +-10   +------R_denny   
+  ! !  !  !  
+  ! +-11  +-------------H_marmo   
+  !    !  
+  !    !  +-----------L_boring  
+  !    +-12  
+  !       +----------B_micro   
+  ! 
+  !     +-----I_iguana  
+  ! +---1 
+  5-4   +----A_crist   
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   5             9            0.03794
+   9             8            0.01184
+   8             7            0.02427
+   7             3            0.04582
+   3          S_salam         0.08537
+   3          L_atifi         0.08570
+   7             6            0.01079
+   6          T_carni         0.12878
+   6          P_brev          0.13545
+   8          M_muscul        0.19778
+   9            11            0.01234
+  11            10            0.01152
+  10             2            0.06721
+   2          R_schleg        0.11530
+   2          R_denny         0.11551
+  10          H_marmo         0.24503
+  11            12            0.00701
+  12          L_boring        0.18602
+  12          B_micro         0.17005
+   5             4            0.01310
+   4             1            0.06992
+   1          I_iguana        0.09422
+   1          A_crist         0.08718
+   4          G_chinen        0.18621
+   5          C_chama         0.21936
+
+
+Data set # 17:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +----A_crist   
+    +---2 
+  +-6   +----I_iguana  
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  ! +----------M_muscul  
+  ! ! 
+  ! !       +------------H_marmo   
+  ! !     +-8 
+  ! !     ! +----------L_boring  
+  7-9  +-11  
+  ! !  !  !       +-----R_schleg  
+  ! !  !  !  +----1 
+  ! !  !  +-12    +-------R_denny   
+  ! !  !     !  
+  ! +-10     +---------B_micro   
+  !    !  
+  !    !    +-------T_carni   
+  !    !  +-4 
+  !    !  ! +-------P_brev    
+  !    +--5 
+  !       !   +-----L_atifi   
+  !       +---3 
+  !           +---S_salam   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             6            0.01455
+   6             2            0.06260
+   2          A_crist         0.08691
+   2          I_iguana        0.09529
+   6          G_chinen        0.21111
+   7             9            0.01528
+   9          M_muscul        0.19281
+   9            10            0.00962
+  10            11            0.01900
+  11             8            0.01692
+   8          H_marmo         0.22071
+   8          L_boring        0.19625
+  11            12            0.00511
+  12             1            0.08315
+   1          R_schleg        0.10283
+   1          R_denny         0.12637
+  12          B_micro         0.16645
+  10             5            0.04845
+   5             4            0.00856
+   4          T_carni         0.14192
+   4          P_brev          0.13690
+   5             3            0.05471
+   3          L_atifi         0.10579
+   3          S_salam         0.06861
+   7          C_chama         0.24141
+
+
+Data set # 18:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  ! 
+  ! +-----------H_marmo   
+  ! ! 
+  ! !      +------R_schleg  
+  8-9  +---1 
+  ! !  !   +-------R_denny   
+  ! !  !  
+  ! !  !  +---------B_micro   
+  ! +-10  !  
+  !    !  !        +-----S_salam   
+  !    !  !      +-3 
+  !    !  !      ! +-----L_atifi   
+  !    !  !    +-5 
+  !    +-12    ! ! +------P_brev    
+  !       !    ! +-4 
+  !       !  +-7   +------T_carni   
+  !       !  ! ! 
+  !       !  ! ! +---------M_muscul  
+  !       !  ! +-6 
+  !       +-11   !   +----A_crist   
+  !          !   +---2 
+  !          !       +----I_iguana  
+  !          !  
+  !          +-----------L_boring  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8          G_chinen        0.18375
+   8             9            0.00945
+   9          H_marmo         0.20502
+   9            10            0.00819
+  10             1            0.07105
+   1          R_schleg        0.10645
+   1          R_denny         0.13139
+  10            12            0.01035
+  12          B_micro         0.17007
+  12            11            0.00404
+  11             7            0.01182
+   7             5            0.03754
+   5             3            0.04009
+   3          S_salam         0.09443
+   3          L_atifi         0.09328
+   5             4            0.01311
+   4          P_brev          0.12746
+   4          T_carni         0.12909
+   7             6            0.01137
+   6          M_muscul        0.16681
+   6             2            0.06601
+   2          A_crist         0.07607
+   2          I_iguana        0.08001
+  11          L_boring        0.19395
+   8          C_chama         0.25213
+
+
+Data set # 19:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +-----------H_marmo   
+     +-10  
+     !  !    +-----R_schleg  
+     !  +----1 
+     !       +------R_denny   
+     !  
+     !     +---------L_boring  
+  +-11   +-7 
+  !  !   ! +--------B_micro   
+  !  ! +-8 
+  !  ! ! ! +--------M_muscul  
+  !  ! ! +-6 
+  !  +-9   !   +----A_crist   
+  !    !   +---2 
+  !    !       +----I_iguana  
+  !    ! 
+  !    +-----------G_chinen  
+  !  
+  !   +------T_carni   
+  ! +-4 
+  ! ! +-------P_brev    
+ 12-5 
+  ! !   +---S_salam   
+  ! +---3 
+  !     +----L_atifi   
+  !  
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+  12            11            0.00431
+  11            10            0.00857
+  10          H_marmo         0.20100
+  10             1            0.09328
+   1          R_schleg        0.09269
+   1          R_denny         0.11383
+  11             9            0.00871
+   9             8            0.00873
+   8             7            0.00614
+   7          L_boring        0.17645
+   7          B_micro         0.15117
+   8             6            0.03041
+   6          M_muscul        0.15152
+   6             2            0.05863
+   2          A_crist         0.08296
+   2          I_iguana        0.08429
+   9          G_chinen        0.20303
+  12             5            0.03670
+   5             4            0.00847
+   4          T_carni         0.12745
+   4          P_brev          0.13274
+   5             3            0.05939
+   3          S_salam         0.07179
+   3          L_atifi         0.08969
+  12          C_chama         0.25568
+
+
+Data set # 20:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +----A_crist   
+    +---1 
+    !   +-----I_iguana  
+    ! 
+    !  +----------M_muscul  
+  +-8  !  
+  ! !  !        +----L_atifi   
+  ! !  !     +--2 
+  ! !  !     !  +----S_salam   
+  ! +-12  +--5 
+  !    !  !  ! +------T_carni   
+  !    !  !  +-4 
+  !    !  !    +------P_brev    
+  !    !  !  
+  !    +-11      +-----------H_marmo   
+  !       !    +-7 
+  !       !    ! ! +-------R_denny   
+  !       !  +-9 +-3 
+  !       !  ! !   +------R_schleg  
+  !       +-10 ! 
+  !          ! +--------L_boring  
+  !          !  
+  !          +--------B_micro   
+  ! 
+  6----------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             8            0.01757
+   8             1            0.07038
+   1          A_crist         0.07483
+   1          I_iguana        0.09284
+   8            12            0.01316
+  12          M_muscul        0.18083
+  12            11            0.00812
+  11             5            0.05136
+   5             2            0.04588
+   2          L_atifi         0.08456
+   2          S_salam         0.08433
+   5             4            0.01554
+   4          T_carni         0.10423
+   4          P_brev          0.11294
+  11            10            0.01005
+  10             9            0.01265
+   9             7            0.01904
+   7          H_marmo         0.20098
+   7             3            0.04418
+   3          R_denny         0.12596
+   3          R_schleg        0.11677
+   9          L_boring        0.15392
+  10          B_micro         0.15036
+   6          G_chinen        0.19163
+   6          C_chama         0.24420
+
+
+Data set # 21:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +----I_iguana  
+      +----1 
+    +-5    +----A_crist   
+    ! ! 
+    ! +----------M_muscul  
+    ! 
+    !       +----S_salam   
+    !     +-3 
+  +-8   +-4 +-----L_atifi   
+  ! !   ! ! 
+  ! ! +-6 +-------T_carni   
+  ! ! ! ! 
+  ! ! ! +--------P_brev    
+  ! +-9 
+  !   !     +------------H_marmo   
+  !   !  +-10  
+  !   !  !  +----------L_boring  
+  !   +-11  
+  !      !  +---------B_micro   
+  !      +-12  
+  !         !    +-----R_schleg  
+  !         +----2 
+  !              +------R_denny   
+  ! 
+  7---------G_chinen  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.00845
+   8             5            0.02515
+   5             1            0.07838
+   1          I_iguana        0.08112
+   1          A_crist         0.08016
+   5          M_muscul        0.17652
+   8             9            0.01919
+   9             6            0.02524
+   6             4            0.01331
+   4             3            0.03980
+   3          S_salam         0.07736
+   3          L_atifi         0.09548
+   4          T_carni         0.13120
+   6          P_brev          0.14122
+   9            11            0.01313
+  11            10            0.01128
+  10          H_marmo         0.21630
+  10          L_boring        0.17387
+  11            12            0.00754
+  12          B_micro         0.17556
+  12             2            0.07742
+   2          R_schleg        0.10203
+   2          R_denny         0.12707
+   7          G_chinen        0.16383
+   7          C_chama         0.21446
+
+
+Data set # 22:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  ! 
+  !      +-----A_crist   
+  ! +----2 
+  ! !    +-----I_iguana  
+  ! ! 
+  ! !           +-----S_salam   
+  ! !        +--3 
+  ! !        !  +-----L_atifi   
+  ! !     +--5 
+  6-7     !  ! +-------T_carni   
+  ! !     !  +-4 
+  ! !     !    +--------P_brev    
+  ! !  +-11  
+  ! !  !  !    +-------------H_marmo   
+  ! !  !  !  +-8 
+  ! !  !  !  ! +---------L_boring  
+  ! !  !  +-12  
+  ! +-10     !     +------R_denny   
+  !    !     +-----1 
+  !    !           +-----R_schleg  
+  !    !  
+  !    ! +---------M_muscul  
+  !    +-9 
+  !      +---------B_micro   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.20401
+   6             7            0.00785
+   7             2            0.07116
+   2          A_crist         0.09621
+   2          I_iguana        0.09609
+   7            10            0.01789
+  10            11            0.01043
+  11             5            0.04204
+   5             3            0.04858
+   3          S_salam         0.10216
+   3          L_atifi         0.09850
+   5             4            0.02318
+   4          T_carni         0.12467
+   4          P_brev          0.14732
+  11            12            0.00807
+  12             8            0.01492
+   8          H_marmo         0.23883
+   8          L_boring        0.16779
+  12             1            0.10621
+   1          R_denny         0.11776
+   1          R_schleg        0.10587
+  10             9            0.00785
+   9          M_muscul        0.17174
+   9          B_micro         0.16050
+   6          C_chama         0.23944
+
+
+Data set # 23:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +----------L_boring  
+        !  
+     +-10       +-----R_schleg  
+     !  ! +-----2 
+     !  +-9     +------R_denny   
+     !    ! 
+     !    +--------------H_marmo   
+     !  
+  +-12      +------T_carni   
+  !  !    +-6 
+  !  !    ! +--------P_brev    
+  !  !  +-7 
+  !  !  ! !  +----L_atifi   
+  !  !  ! +--3 
+  !  +-11    +-----S_salam   
+  !     !  
+  !     ! +--------B_micro   
+  !     +-8 
+  !       +----------M_muscul  
+  ! 
+  !      +----A_crist   
+  ! +----1 
+  5-4    +----I_iguana  
+  ! ! 
+  ! +-----------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   5            12            0.04320
+  12            10            0.00438
+  10          L_boring        0.19092
+  10             9            0.00666
+   9             2            0.08800
+   2          R_schleg        0.10822
+   2          R_denny         0.12643
+   9          H_marmo         0.24046
+  12            11            0.00181
+  11             7            0.03632
+   7             6            0.01648
+   6          T_carni         0.12323
+   6          P_brev          0.14852
+   7             3            0.05161
+   3          L_atifi         0.08340
+   3          S_salam         0.09461
+  11             8            0.02015
+   8          B_micro         0.15136
+   8          M_muscul        0.17676
+   5             4            0.01196
+   4             1            0.08209
+   1          A_crist         0.08640
+   1          I_iguana        0.08709
+   4          G_chinen        0.19698
+   5          C_chama         0.24274
+
+
+Data set # 24:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +-----R_schleg  
+  +----1 
+  !    +------R_denny   
+  ! 
+  ! +-------------H_marmo   
+  ! ! 
+  ! !               +-----I_iguana  
+  ! !          +----2 
+  ! !        +-6    +----A_crist   
+  ! !        ! ! 
+  ! !        ! +-----------G_chinen  
+  ! !     +-10  
+  7-8     !  !    +-------T_carni   
+  ! !     !  !  +-4 
+  ! !     !  !  ! +-------P_brev    
+  ! !     !  +--5 
+  ! !  +-11     !  +----L_atifi   
+  ! !  !  !     +--3 
+  ! !  !  !        +----S_salam   
+  ! !  !  !  
+  ! +-12  ! +---------M_muscul  
+  !    !  +-9 
+  !    !    +---------B_micro   
+  !    !  
+  !    +---------L_boring  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             1            0.08051
+   1          R_schleg        0.10391
+   1          R_denny         0.11600
+   7             8            0.01374
+   8          H_marmo         0.23933
+   8            12            0.01510
+  12            11            0.00403
+  11            10            0.00497
+  10             6            0.02241
+   6             2            0.08602
+   2          I_iguana        0.10330
+   2          A_crist         0.09503
+   6          G_chinen        0.21096
+  10             5            0.04062
+   5             4            0.00842
+   4          T_carni         0.12898
+   4          P_brev          0.13637
+   5             3            0.05006
+   3          L_atifi         0.09225
+   3          S_salam         0.08516
+  11             9            0.00996
+   9          M_muscul        0.17320
+   9          B_micro         0.17304
+  12          L_boring        0.17308
+   7          C_chama         0.24787
+
+
+Data set # 25:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+          +--------B_micro   
+        +-9 
+        ! +----------L_boring  
+     +-10  
+     !  !     +-------R_denny   
+     !  ! +---1 
+     !  +-8   +-----R_schleg  
+     !    ! 
+     !    +-----------H_marmo   
+  +-11  
+  !  !      +------S_salam   
+  !  !    +-3 
+  !  !    ! +-----L_atifi   
+  !  !  +-5 
+  !  !  ! ! +------T_carni   
+  !  +-12 +-4 
+  !     !   +-------P_brev    
+  !     !  
+  !     +---------M_muscul  
+  ! 
+  !    +----A_crist   
+  ! +--2 
+  7-6  +----I_iguana  
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            11            0.03769
+  11            10            0.00885
+  10             9            0.01195
+   9          B_micro         0.16062
+   9          L_boring        0.18589
+  10             8            0.01264
+   8             1            0.06901
+   1          R_denny         0.13197
+   1          R_schleg        0.10929
+   8          H_marmo         0.21349
+  11            12            0.00610
+  12             5            0.03874
+   5             3            0.04189
+   3          S_salam         0.10234
+   3          L_atifi         0.09838
+   5             4            0.01981
+   4          T_carni         0.11976
+   4          P_brev          0.13496
+  12          M_muscul        0.17909
+   7             6            0.00963
+   6             2            0.05190
+   2          A_crist         0.08548
+   2          I_iguana        0.08745
+   6          G_chinen        0.18835
+   7          C_chama         0.23340
+
+
+Data set # 26:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +----A_crist   
+         +---2 
+       +-6   +-----I_iguana  
+       ! ! 
+       ! +----------M_muscul  
+     +-8 
+     ! !    +----L_atifi   
+     ! ! +--3 
+     ! ! !  +----S_salam   
+     ! +-5 
+     !   ! +-------T_carni   
+     !   +-4 
+  +-11     +--------P_brev    
+  !  !  
+  !  !       +----------L_boring  
+  !  !     +-7 
+  !  !  +-10 +------------H_marmo   
+  !  !  !  !  
+  !  +-12  +------------G_chinen  
+  !     !  
+  !     +---------B_micro   
+  ! 
+  !    +-----R_schleg  
+  9----1 
+  !    +-------R_denny   
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   9            11            0.00973
+  11             8            0.00989
+   8             6            0.01747
+   6             2            0.06071
+   2          A_crist         0.08752
+   2          I_iguana        0.09392
+   6          M_muscul        0.17381
+   8             5            0.02895
+   5             3            0.05411
+   3          L_atifi         0.08725
+   3          S_salam         0.08137
+   5             4            0.01518
+   4          T_carni         0.13497
+   4          P_brev          0.14723
+  11            12            0.00090
+  12            10            0.00914
+  10             7            0.01561
+   7          L_boring        0.17394
+   7          H_marmo         0.21017
+  10          G_chinen        0.21370
+  12          B_micro         0.17059
+   9             1            0.08104
+   1          R_schleg        0.10080
+   1          R_denny         0.13737
+   9          C_chama         0.22158
+
+
+Data set # 27:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-------------H_marmo   
+  ! 
+  !      +---R_schleg  
+  ! +----1 
+  ! !    +-----R_denny   
+  ! ! 
+  ! !     +----S_salam   
+  ! !   +-3 
+  6-8   ! +-----L_atifi   
+  ! ! +-5 
+  ! ! ! ! +-------P_brev    
+  ! ! ! +-4 
+  ! ! !   +-------T_carni   
+  ! ! ! 
+  ! +-9           +----A_crist   
+  !   !       +---2 
+  !   !     +-7   +-----I_iguana  
+  !   !     ! ! 
+  !   !  +-10 +------------G_chinen  
+  !   !  !  !  
+  !   +-11  +----------L_boring  
+  !      !  
+  !      !  +----------M_muscul  
+  !      +-12  
+  !         +--------B_micro   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          H_marmo         0.22817
+   6             8            0.01173
+   8             1            0.08089
+   1          R_schleg        0.08008
+   1          R_denny         0.11551
+   8             9            0.01418
+   9             5            0.03509
+   5             3            0.03745
+   3          S_salam         0.08718
+   3          L_atifi         0.10728
+   5             4            0.01211
+   4          P_brev          0.12472
+   4          T_carni         0.13007
+   9            11            0.00777
+  11            10            0.00545
+  10             7            0.01856
+   7             2            0.05986
+   2          A_crist         0.08669
+   2          I_iguana        0.09321
+   7          G_chinen        0.20141
+  10          L_boring        0.18398
+  11            12            0.00362
+  12          M_muscul        0.17690
+  12          B_micro         0.14848
+   6          C_chama         0.24107
+
+
+Data set # 28:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +----L_atifi   
+         +---3 
+         !   +-----S_salam   
+       +-6 
+       ! ! +------T_carni   
+       ! +-4 
+    +-10   +------P_brev    
+    !  !  
+    !  !  +----------B_micro   
+    !  !  !  
+    !  +-12        +-----R_schleg  
+    !     !  +-----1 
+    !     !  !     +-------R_denny   
+  +-8     +-11  
+  ! !        ! +------------H_marmo   
+  ! !        +-9 
+  ! !          +---------L_boring  
+  ! ! 
+  ! !     +---A_crist   
+  ! ! +---2 
+  ! +-5   +----I_iguana  
+  !   ! 
+  !   +-----------M_muscul  
+  ! 
+  7------------G_chinen  
+  ! 
+  +-----------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.01007
+   8            10            0.01220
+  10             6            0.03233
+   6             3            0.05996
+   3          L_atifi         0.07915
+   3          S_salam         0.09999
+   6             4            0.02484
+   4          T_carni         0.11679
+   4          P_brev          0.12692
+  10            12            0.00115
+  12          B_micro         0.18190
+  12            11            0.00112
+  11             1            0.08399
+   1          R_schleg        0.10578
+   1          R_denny         0.13354
+  11             9            0.00830
+   9          H_marmo         0.21711
+   9          L_boring        0.16508
+   8             5            0.03027
+   5             2            0.05373
+   2          A_crist         0.08058
+   2          I_iguana        0.09578
+   5          M_muscul        0.18865
+   7          G_chinen        0.20858
+   7          C_chama         0.20491
+
+
+Data set # 29:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-----R_schleg  
+  +---3 
+  !   +-------R_denny   
+  ! 
+  !          +--------B_micro   
+  !        +-9 
+  !        ! +---------M_muscul  
+  !     +-10  
+  !     !  !     +----I_iguana  
+  !     !  ! +---1 
+  !     !  +-8   +----A_crist   
+  !     !    ! 
+  !  +-12    +----------G_chinen  
+  !  !  !  
+  !  !  !    +-------T_carni   
+  !  !  !  +-4 
+  !  !  !  ! +------P_brev    
+  7-11  +--5 
+  !  !     !  +-----L_atifi   
+  !  !     +--2 
+  !  !        +----S_salam   
+  !  !  
+  !  ! +---------L_boring  
+  !  +-6 
+  !    +-----------H_marmo   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             3            0.06242
+   3          R_schleg        0.10803
+   3          R_denny         0.13842
+   7            11            0.01135
+  11            12            0.00644
+  12            10            0.01512
+  10             9            0.00955
+   9          B_micro         0.15686
+   9          M_muscul        0.17249
+  10             8            0.01308
+   8             1            0.07150
+   1          I_iguana        0.08099
+   1          A_crist         0.08207
+   8          G_chinen        0.18188
+  12             5            0.05527
+   5             4            0.00673
+   4          T_carni         0.13030
+   4          P_brev          0.11879
+   5             2            0.05123
+   2          L_atifi         0.08826
+   2          S_salam         0.08202
+  11             6            0.02175
+   6          L_boring        0.16868
+   6          H_marmo         0.19214
+   7          C_chama         0.25510
+
+
+Data set # 30:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +-------T_carni   
+           +-4 
+           ! +--------P_brev    
+        +--5 
+        !  !  +----S_salam   
+        !  +--3 
+        !     +-----L_atifi   
+     +-12  
+     !  !        +----I_iguana  
+     !  !    +---2 
+     !  !  +-8   +----A_crist   
+     !  !  ! ! 
+  +-10  +-11 +---------M_muscul  
+  !  !     !  
+  !  !     +----------B_micro   
+  !  !  
+  !  ! +---------L_boring  
+  !  +-9 
+  !    +----------G_chinen  
+  ! 
+  !      +------R_denny   
+  ! +----1 
+  7-6    +-----R_schleg  
+  ! ! 
+  ! +------------H_marmo   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            10            0.02017
+  10            12            0.00580
+  12             5            0.05382
+   5             4            0.01181
+   4          T_carni         0.12986
+   4          P_brev          0.14673
+   5             3            0.05704
+   3          S_salam         0.08537
+   3          L_atifi         0.09358
+  12            11            0.00107
+  11             8            0.01558
+   8             2            0.07281
+   2          I_iguana        0.08384
+   2          A_crist         0.08961
+   8          M_muscul        0.17571
+  11          B_micro         0.19368
+  10             9            0.00683
+   9          L_boring        0.17322
+   9          G_chinen        0.19392
+   7             6            0.01342
+   6             1            0.08473
+   1          R_denny         0.11344
+   1          R_schleg        0.10479
+   6          H_marmo         0.21524
+   7          C_chama         0.25141
+
+
+Data set # 31:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  !  
+  !      +----A_crist   
+  !  +---3 
+  !  !   +----I_iguana  
+  !  !  
+  !  !          +---L_atifi   
+  !  !      +---2 
+  !  !      !   +----S_salam   
+ 11-12    +-5 
+  !  !    ! ! +-------P_brev    
+  !  !  +-9 +-4 
+  !  !  ! !   +------T_carni   
+  !  !  ! ! 
+  !  !  ! +---------M_muscul  
+  !  !  !  
+  !  +-10   +----------L_boring  
+  !     !   ! 
+  !     ! +-7       +-----R_schleg  
+  !     ! ! ! +-----1 
+  !     ! ! +-6     +-----R_denny   
+  !     +-8   ! 
+  !       !   +-------------H_marmo   
+  !       ! 
+  !       +--------B_micro   
+  !  
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+  11          G_chinen        0.19827
+  11            12            0.00855
+  12             3            0.06764
+   3          A_crist         0.08851
+   3          I_iguana        0.08736
+  12            10            0.01213
+  10             9            0.01149
+   9             5            0.03105
+   5             2            0.06824
+   2          L_atifi         0.06701
+   2          S_salam         0.08230
+   5             4            0.01396
+   4          P_brev          0.13546
+   4          T_carni         0.11676
+   9          M_muscul        0.17438
+  10             8            0.01274
+   8             7            0.01163
+   7          L_boring        0.18093
+   7             6            0.01145
+   6             1            0.09061
+   1          R_schleg        0.09556
+   1          R_denny         0.10890
+   6          H_marmo         0.22787
+   8          B_micro         0.15811
+  11          C_chama         0.25721
+
+
+Data set # 32:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                 +----A_crist   
+              +--1 
+            +-7  +------I_iguana  
+            ! ! 
+          +-8 +---------M_muscul  
+          ! ! 
+          ! +--------B_micro   
+       +-11  
+       !  !  +----------L_boring  
+       !  !  !  
+       !  +-12   +-------P_brev    
+       !     ! +-4 
+       !     ! ! +------T_carni   
+    +-10     +-5 
+    !  !       !   +----S_salam   
+    !  !       +---3 
+    !  !           +----L_atifi   
+  +-9  !  
+  ! !  !    +-------R_denny   
+  ! !  +----2 
+  ! !       +-----R_schleg  
+  ! ! 
+  ! +------------H_marmo   
+  ! 
+  6-----------G_chinen  
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             9            0.03113
+   9            10            0.00487
+  10            11            0.01173
+  11             8            0.01225
+   8             7            0.02096
+   7             1            0.05952
+   1          A_crist         0.08002
+   1          I_iguana        0.10462
+   7          M_muscul        0.17659
+   8          B_micro         0.16049
+  11            12            0.00172
+  12          L_boring        0.18709
+  12             5            0.03575
+   5             4            0.00989
+   4          P_brev          0.14542
+   4          T_carni         0.12632
+   5             3            0.05853
+   3          S_salam         0.08492
+   3          L_atifi         0.08407
+  10             2            0.07551
+   2          R_denny         0.13285
+   2          R_schleg        0.09890
+   9          H_marmo         0.22689
+   6          G_chinen        0.19991
+   6          C_chama         0.26280
+
+
+Data set # 33:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +------------G_chinen  
+  ! 
+  !                +----R_schleg  
+  !            +---1 
+  !          +-6   +-----R_denny   
+  !          ! ! 
+  !        +-8 +----------H_marmo   
+  !        ! ! 
+  !     +-12 +---------L_boring  
+  !     !  !  
+  !     !  ! +--------M_muscul  
+  !     !  +-7 
+  !  +-11    +--------B_micro   
+  !  !  !  
+  !  !  !   +------T_carni   
+  !  !  ! +-4 
+  !  !  ! ! +-------P_brev    
+  9-10  +-5 
+  !  !    !  +----L_atifi   
+  !  !    +--3 
+  !  !       +----S_salam   
+  !  !  
+  !  !   +----I_iguana  
+  !  +---2 
+  !      +----A_crist   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   9          G_chinen        0.21299
+   9            10            0.00715
+  10            11            0.02062
+  11            12            0.00273
+  12             8            0.01713
+   8             6            0.01677
+   6             1            0.06580
+   1          R_schleg        0.09279
+   1          R_denny         0.10764
+   6          H_marmo         0.18830
+   8          L_boring        0.17234
+  12             7            0.02131
+   7          M_muscul        0.15646
+   7          B_micro         0.14650
+  11             5            0.03676
+   5             4            0.02058
+   4          T_carni         0.12244
+   4          P_brev          0.12706
+   5             3            0.04533
+   3          L_atifi         0.09339
+   3          S_salam         0.09638
+  10             2            0.05657
+   2          I_iguana        0.09347
+   2          A_crist         0.08765
+   9          C_chama         0.22691
+
+
+Data set # 34:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +------------G_chinen  
+  ! 
+  !                +----R_schleg  
+  !         +------1 
+  !         !      +------R_denny   
+  !       +-9 
+  !       ! ! +-----------H_marmo   
+  !       ! +-6 
+  !       !   +-----------L_boring  
+  !    +-11  
+  !    !  !     +----L_atifi   
+  !    !  !  +--3 
+  !    !  !  !  +-----S_salam   
+  !    !  +--5 
+  ! +-12     ! +--------P_brev    
+  ! !  !     +-4 
+  ! !  !       +-------T_carni   
+  ! !  !  
+  7-8  !  +-----------M_muscul  
+  ! !  +-10  
+  ! !     +---------B_micro   
+  ! ! 
+  ! !   +----A_crist   
+  ! +---2 
+  !     +----I_iguana  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7          G_chinen        0.20956
+   7             8            0.01280
+   8            12            0.03247
+  12            11            0.00505
+  11             9            0.01588
+   9             1            0.11703
+   1          R_schleg        0.08437
+   1          R_denny         0.11985
+   9             6            0.02669
+   6          H_marmo         0.20249
+   6          L_boring        0.20048
+  11             5            0.04248
+   5             3            0.05234
+   3          L_atifi         0.08478
+   3          S_salam         0.10217
+   5             4            0.01599
+   4          P_brev          0.15524
+   4          T_carni         0.13540
+  12            10            0.01271
+  10          M_muscul        0.19938
+  10          B_micro         0.16306
+   8             2            0.06368
+   2          A_crist         0.09423
+   2          I_iguana        0.09535
+   7          C_chama         0.24722
+
+
+Data set # 35:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+         +-----I_iguana  
+    +----1 
+    !    +----A_crist   
+    ! 
+    !       +--------B_micro   
+    !     +-8 
+  +-7     ! +----------M_muscul  
+  ! !     !  
+  ! !  +-12   +--------P_brev    
+  ! !  !  ! +-4 
+  ! !  !  ! ! +-------T_carni   
+  ! !  !  +-5 
+  ! +-11    !   +----S_salam   
+  !    !    +---3 
+  !    !        +---L_atifi   
+  !    !  
+  !    !  +--------------H_marmo   
+  !    +-10  
+  !       ! +-----------L_boring  
+  !       +-9 
+  !         !   +------R_schleg  
+  !         +---2 
+  !             +--------R_denny   
+  ! 
+  6-----------G_chinen  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             7            0.02150
+   7             1            0.07801
+   1          I_iguana        0.09512
+   1          A_crist         0.08531
+   7            11            0.02232
+  11            12            0.00314
+  12             8            0.01254
+   8          B_micro         0.16544
+   8          M_muscul        0.18970
+  12             5            0.03801
+   5             4            0.01679
+   4          P_brev          0.14393
+   4          T_carni         0.13206
+   5             3            0.06004
+   3          S_salam         0.09063
+   3          L_atifi         0.07869
+  11            10            0.00745
+  10          H_marmo         0.24888
+  10             9            0.00769
+   9          L_boring        0.20327
+   9             2            0.07349
+   2          R_schleg        0.11013
+   2          R_denny         0.14622
+   6          G_chinen        0.19590
+   6          C_chama         0.21794
+
+
+Data set # 36:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +-----------G_chinen  
+    ! 
+    !           +----I_iguana  
+    !       +---2 
+  +-9     +-6   +----A_crist   
+  ! !     ! ! 
+  ! !  +-11 +----------M_muscul  
+  ! !  !  !  
+  ! !  !  +---------B_micro   
+  ! +-12  
+  !    !  +----------L_boring  
+  !    !  !  
+  !    +-10   +--------P_brev    
+  !       ! +-4 
+  !       ! ! +-------T_carni   
+  !       +-5 
+  !         !  +-----S_salam   
+  !         +--3 
+  !            +----L_atifi   
+  ! 
+  !       +------R_denny   
+  ! +-----1 
+  8-7     +----R_schleg  
+  ! ! 
+  ! +------------H_marmo   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8             9            0.01244
+   9          G_chinen        0.20655
+   9            12            0.01033
+  12            11            0.00767
+  11             6            0.01569
+   6             2            0.07166
+   2          I_iguana        0.08185
+   2          A_crist         0.08659
+   6          M_muscul        0.18945
+  11          B_micro         0.16456
+  12            10            0.00872
+  10          L_boring        0.18174
+  10             5            0.04210
+   5             4            0.01793
+   4          P_brev          0.13994
+   4          T_carni         0.12443
+   5             3            0.03915
+   3          S_salam         0.10770
+   3          L_atifi         0.08854
+   8             7            0.00751
+   7             1            0.08471
+   1          R_denny         0.12754
+   1          R_schleg        0.09749
+   7          H_marmo         0.20318
+   8          C_chama         0.24398
+
+
+Data set # 37:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +-----I_iguana  
+    +--2 
+  +-6  +----A_crist   
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  !     +--------L_boring  
+  !  +-11  
+  !  !  !  +------------H_marmo   
+  !  !  +-12  
+  !  !     !    +-----R_denny   
+  !  !     +----1 
+  7-10          +----R_schleg  
+  !  !  
+  !  !   +---------B_micro   
+  !  ! +-8 
+  !  ! ! +-----------M_muscul  
+  !  ! ! 
+  !  +-9    +-----L_atifi   
+  !    !  +-3 
+  !    !  ! +----S_salam   
+  !    +--5 
+  !       ! +------T_carni   
+  !       +-4 
+  !         +-------P_brev    
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             6            0.01893
+   6             2            0.04513
+   2          I_iguana        0.10545
+   2          A_crist         0.08588
+   6          G_chinen        0.18298
+   7            10            0.02269
+  10            11            0.02029
+  11          L_boring        0.16150
+  11            12            0.00326
+  12          H_marmo         0.21942
+  12             1            0.08472
+   1          R_denny         0.10869
+   1          R_schleg        0.08324
+  10             9            0.00722
+   9             8            0.00768
+   8          B_micro         0.15512
+   8          M_muscul        0.19558
+   9             5            0.04729
+   5             3            0.04289
+   3          L_atifi         0.09301
+   3          S_salam         0.07936
+   5             4            0.00946
+   4          T_carni         0.11473
+   4          P_brev          0.12744
+   7          C_chama         0.23430
+
+
+Data set # 38:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+            +----L_atifi   
+         +--2 
+       +-4  +----S_salam   
+       ! ! 
+     +-5 +------T_carni   
+     ! ! 
+     ! +--------P_brev    
+     !  
+  +-11     +---------B_micro   
+  !  !  +-10  
+  !  !  !  ! +---------L_boring  
+  !  !  !  +-8 
+  !  !  !    +----------M_muscul  
+  !  +-12  
+  !     !     +-------R_denny   
+  !     ! +---1 
+  !     +-9   +-----R_schleg  
+  !       ! 
+  !       +-----------H_marmo   
+  ! 
+  ! +-----------G_chinen  
+  7-6 
+  ! !   +----A_crist   
+  ! +---3 
+  !     +----I_iguana  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            11            0.02871
+  11             5            0.04291
+   5             4            0.00651
+   4             2            0.04767
+   2          L_atifi         0.09343
+   2          S_salam         0.08334
+   4          T_carni         0.12568
+   5          P_brev          0.14070
+  11            12            0.00472
+  12            10            0.00550
+  10          B_micro         0.15665
+  10             8            0.01806
+   8          L_boring        0.16728
+   8          M_muscul        0.17404
+  12             9            0.01390
+   9             1            0.07626
+   1          R_denny         0.12970
+   1          R_schleg        0.08506
+   9          H_marmo         0.21056
+   7             6            0.00581
+   6          G_chinen        0.19686
+   6             3            0.05473
+   3          A_crist         0.09617
+   3          I_iguana        0.08939
+   7          C_chama         0.25127
+
+
+Data set # 39:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +-----------M_muscul  
+       !  
+       !           +-----R_schleg  
+       !      +----1 
+    +-10    +-8    +------R_denny   
+    !  !    ! ! 
+    !  !  +-9 +-------------H_marmo   
+    !  !  ! ! 
+    !  !  ! +----------L_boring  
+    !  +-11  
+    !     !  +--------B_micro   
+    !     !  !  
+  +-7     +-12   +-----S_salam   
+  ! !        ! +-3 
+  ! !        ! ! +------L_atifi   
+  ! !        +-5 
+  ! !          ! +------P_brev    
+  ! !          +-4 
+  ! !            +------T_carni   
+  ! ! 
+  ! !   +----I_iguana  
+  ! +---2 
+  !     +---A_crist   
+  ! 
+  6-----------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             7            0.01267
+   7            10            0.02267
+  10          M_muscul        0.19629
+  10            11            0.00783
+  11             9            0.01244
+   9             8            0.00968
+   8             1            0.08386
+   1          R_schleg        0.10442
+   1          R_denny         0.12331
+   8          H_marmo         0.23108
+   9          L_boring        0.18155
+  11            12            0.00162
+  12          B_micro         0.15812
+  12             5            0.03827
+   5             3            0.04193
+   3          S_salam         0.08776
+   3          L_atifi         0.10706
+   5             4            0.03193
+   4          P_brev          0.11569
+   4          T_carni         0.11883
+   7             2            0.06645
+   2          I_iguana        0.08172
+   2          A_crist         0.07703
+   6          G_chinen        0.19318
+   6          C_chama         0.22889
+
+
+Data set # 40:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+         +-------P_brev    
+       +-4 
+       ! +------T_carni   
+     +-6 
+     ! ! +-----L_atifi   
+     ! +-3 
+  +-10   +-----S_salam   
+  !  !  
+  !  !  +----------L_boring  
+  !  !  !  
+  !  +-11    +--------B_micro   
+  !     !  +-9 
+  !     !  ! +---------M_muscul  
+  !     +-12  
+  !        !    +------R_schleg  
+  !        ! +--2 
+  !        +-7  +-------R_denny   
+  !          ! 
+  !          +-----------H_marmo   
+  ! 
+  ! +----------G_chinen  
+  8-5 
+  ! !  +----A_crist   
+  ! +--1 
+  !    +-----I_iguana  
+  ! 
+  +----------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8            10            0.01485
+  10             6            0.03397
+   6             4            0.01250
+   4          P_brev          0.13215
+   4          T_carni         0.12372
+   6             3            0.04025
+   3          L_atifi         0.08866
+   3          S_salam         0.09384
+  10            11            0.00594
+  11          L_boring        0.18355
+  11            12            0.00448
+  12             9            0.01275
+   9          B_micro         0.14627
+   9          M_muscul        0.16508
+  12             7            0.02062
+   7             2            0.05640
+   2          R_schleg        0.11456
+   2          R_denny         0.13129
+   7          H_marmo         0.20004
+   8             5            0.01947
+   5          G_chinen        0.18686
+   5             1            0.04947
+   1          A_crist         0.07834
+   1          I_iguana        0.09539
+   8          C_chama         0.27705
+
+
+Data set # 41:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-----I_iguana  
+  +---2 
+  !   +----A_crist   
+  ! 
+  !      +---------M_muscul  
+  !      !  
+  !   +-10  +--------B_micro   
+  !   !  !  !  
+  !   !  +-11    +------------H_marmo   
+  !   !     !  +-7 
+  !   !     !  ! !    +------R_denny   
+  !   !     +-12 +----1 
+  ! +-9        !      +------R_schleg  
+  ! ! !        !  
+  ! ! !        +---------L_boring  
+  ! ! ! 
+  ! ! !    +----L_atifi   
+  ! ! ! +--3 
+  6-8 ! !  +----S_salam   
+  ! ! +-5 
+  ! !   ! +------P_brev    
+  ! !   +-4 
+  ! !     +-----T_carni   
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             2            0.06768
+   2          I_iguana        0.09077
+   2          A_crist         0.08779
+   6             8            0.01533
+   8             9            0.00976
+   9            10            0.01069
+  10          M_muscul        0.16952
+  10            11            0.00590
+  11          B_micro         0.15815
+  11            12            0.00537
+  12             7            0.02182
+   7          H_marmo         0.22264
+   7             1            0.08255
+   1          R_denny         0.12015
+   1          R_schleg        0.11061
+  12          L_boring        0.16722
+   9             5            0.02676
+   5             3            0.04703
+   3          L_atifi         0.08890
+   3          S_salam         0.08116
+   5             4            0.02480
+   4          P_brev          0.12460
+   4          T_carni         0.10239
+   8          G_chinen        0.21030
+   6          C_chama         0.25843
+
+
+Data set # 42:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +------------H_marmo   
+    ! 
+    !            +----A_crist   
+    !       +----2 
+    !     +-8    +----I_iguana  
+    !     ! ! 
+  +-7     ! +-----------G_chinen  
+  ! !  +-11  
+  ! !  !  !    +----------M_muscul  
+  ! !  !  !  +-9 
+  ! !  !  +-12 +---------B_micro   
+  ! !  !     !  
+  ! +-10     +----------L_boring  
+  !    !  
+  !    !   +-------P_brev    
+  !    ! +-4 
+  !    ! ! +------T_carni   
+  !    +-5 
+  !      !  +----S_salam   
+  !      +--3 
+  !         +----L_atifi   
+  ! 
+  !    +-----R_schleg  
+  6----1 
+  !    +-------R_denny   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             7            0.01496
+   7          H_marmo         0.22509
+   7            10            0.01338
+  10            11            0.01043
+  11             8            0.01452
+   8             2            0.07176
+   2          A_crist         0.08591
+   2          I_iguana        0.09406
+   8          G_chinen        0.20333
+  11            12            0.00532
+  12             9            0.01141
+   9          M_muscul        0.18194
+   9          B_micro         0.16376
+  12          L_boring        0.18618
+  10             5            0.03014
+   5             4            0.02763
+   4          P_brev          0.13365
+   4          T_carni         0.11403
+   5             3            0.05352
+   3          S_salam         0.08299
+   3          L_atifi         0.08875
+   6             1            0.08358
+   1          R_schleg        0.10317
+   1          R_denny         0.13383
+   6          C_chama         0.24841
+
+
+Data set # 43:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  ! 
+  !      +----A_crist   
+  !   +--3 
+  ! +-6  +----I_iguana  
+  ! ! ! 
+  ! ! +---------M_muscul  
+  ! ! 
+  ! !    +----------L_boring  
+  ! !    !  
+  7-8 +-10  +-------------H_marmo   
+  ! ! !  !  !  
+  ! ! !  +-12      +-------R_denny   
+  ! ! !     !  +---1 
+  ! ! !     +-11   +-----R_schleg  
+  ! +-9        !  
+  !   !        +--------B_micro   
+  !   ! 
+  !   !    +-------P_brev    
+  !   !  +-4 
+  !   !  ! +-------T_carni   
+  !   +--5 
+  !      ! +-----L_atifi   
+  !      +-2 
+  !        +----S_salam   
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7          G_chinen        0.18473
+   7             8            0.01710
+   8             6            0.01802
+   6             3            0.04429
+   3          A_crist         0.08339
+   3          I_iguana        0.09074
+   6          M_muscul        0.15683
+   8             9            0.00770
+   9            10            0.00930
+  10          L_boring        0.18092
+  10            12            0.00486
+  12          H_marmo         0.22385
+  12            11            0.00477
+  11             1            0.06682
+   1          R_denny         0.13333
+   1          R_schleg        0.10759
+  11          B_micro         0.15172
+   9             5            0.03525
+   5             4            0.01476
+   4          P_brev          0.12920
+   4          T_carni         0.12408
+   5             2            0.04637
+   2          L_atifi         0.09651
+   2          S_salam         0.08210
+   7          C_chama         0.21650
+
+
+Data set # 44:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  ! 
+  !   +-----------M_muscul  
+  !   ! 
+  !   !     +-----------L_boring  
+  !   !     !  
+  ! +-9  +-12  +----------B_micro   
+  ! ! !  !  !  !  
+  ! ! !  !  +-11      +-------R_denny   
+  ! ! !  !     ! +----1 
+  ! ! !  !     +-6    +-----R_schleg  
+  ! ! +-10       ! 
+  ! !    !       +------------H_marmo   
+  ! !    !  
+  7-8    !   +------T_carni   
+  ! !    ! +-4 
+  ! !    ! ! +-------P_brev    
+  ! !    +-5 
+  ! !      !  +-----S_salam   
+  ! !      +--3 
+  ! !         +----L_atifi   
+  ! ! 
+  ! !   +----A_crist   
+  ! +---2 
+  !     +----I_iguana  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7          G_chinen        0.19952
+   7             8            0.01130
+   8             9            0.01120
+   9          M_muscul        0.18816
+   9            10            0.01223
+  10            12            0.00327
+  12          L_boring        0.19668
+  12            11            0.00280
+  11          B_micro         0.16931
+  11             6            0.02911
+   6             1            0.07366
+   1          R_denny         0.13288
+   1          R_schleg        0.10973
+   6          H_marmo         0.21872
+  10             5            0.03467
+   5             4            0.01361
+   4          T_carni         0.12514
+   4          P_brev          0.13730
+   5             3            0.04291
+   3          S_salam         0.10084
+   3          L_atifi         0.08861
+   8             2            0.07017
+   2          A_crist         0.08049
+   2          I_iguana        0.09070
+   7          C_chama         0.24320
+
+
+Data set # 45:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +-------T_carni   
+         +-4 
+         ! ! +-----S_salam   
+       +-5 +-3 
+       ! !   +-----L_atifi   
+     +-9 ! 
+     ! ! +---------P_brev    
+     ! ! 
+     ! +-----------M_muscul  
+     !  
+  +-10       +-------------H_marmo   
+  !  !     +-8 
+  !  !     ! +----------L_boring  
+  !  !  +-12  
+  !  !  !  !   +------R_denny   
+  !  +-11  +---1 
+  !     !      +----R_schleg  
+  !     !  
+  !     +---------B_micro   
+  ! 
+  !     +----A_crist   
+  ! +---2 
+  7-6   +----I_iguana  
+  ! ! 
+  ! +-----------G_chinen  
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            10            0.02319
+  10             9            0.00903
+   9             5            0.02809
+   5             4            0.01471
+   4          T_carni         0.14028
+   4             3            0.03350
+   3          S_salam         0.10541
+   3          L_atifi         0.10409
+   5          P_brev          0.17278
+   9          M_muscul        0.20339
+  10            11            0.01533
+  11            12            0.00353
+  12             8            0.01490
+   8          H_marmo         0.21828
+   8          L_boring        0.17594
+  12             1            0.06979
+   1          R_denny         0.12855
+   1          R_schleg        0.09077
+  11          B_micro         0.15961
+   7             6            0.00721
+   6             2            0.06010
+   2          A_crist         0.07502
+   2          I_iguana        0.08907
+   6          G_chinen        0.18972
+   7          C_chama         0.26500
+
+
+Data set # 46:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +----I_iguana  
+       +---2 
+     +-6   +----A_crist   
+     ! ! 
+     ! +-----------G_chinen  
+     !  
+     !      +------P_brev    
+  +-11    +-4 
+  !  !    ! +-------T_carni   
+  !  !  +-5 
+  !  !  ! !  +----S_salam   
+  !  +-12 +--3 
+  !     !    +----L_atifi   
+  !     !  
+  !     +----------M_muscul  
+  !  
+  ! +---------B_micro   
+  ! ! 
+ 10-9       +-----R_schleg  
+  ! ! +-----1 
+  ! ! !     +------R_denny   
+  ! +-8 
+  !   ! +------------H_marmo   
+  !   +-7 
+  !     +----------L_boring  
+  !  
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+  10            11            0.00714
+  11             6            0.01333
+   6             2            0.05519
+   2          I_iguana        0.09846
+   2          A_crist         0.09557
+   6          G_chinen        0.19846
+  11            12            0.00690
+  12             5            0.03583
+   5             4            0.01726
+   4          P_brev          0.12062
+   4          T_carni         0.12879
+   5             3            0.04399
+   3          S_salam         0.09361
+   3          L_atifi         0.09091
+  12          M_muscul        0.18997
+  10             9            0.01033
+   9          B_micro         0.16793
+   9             8            0.01204
+   8             1            0.09756
+   1          R_schleg        0.09339
+   1          R_denny         0.11489
+   8             7            0.01112
+   7          H_marmo         0.20830
+   7          L_boring        0.17943
+  10          C_chama         0.23309
+
+
+Data set # 47:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +---------M_muscul  
+     +-10  
+     !  +--------B_micro   
+     !  
+     !       +------T_carni   
+     !     +-4 
+  +-11     ! +------P_brev    
+  !  !  +--5 
+  !  !  !  ! +----L_atifi   
+  !  !  !  +-3 
+  !  !  !    +----S_salam   
+  !  +-12  
+  !     !       +-------R_denny   
+  !     !   +---2 
+  !     ! +-8   +------R_schleg  
+  !     ! ! ! 
+  !     +-9 +-----------H_marmo   
+  !       ! 
+  !       +--------L_boring  
+  ! 
+  !     +---A_crist   
+  ! +---1 
+  7-6   +----I_iguana  
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            11            0.02624
+  11            10            0.00792
+  10          M_muscul        0.16374
+  10          B_micro         0.15427
+  11            12            0.00403
+  12             5            0.04880
+   5             4            0.02028
+   4          T_carni         0.11417
+   4          P_brev          0.11797
+   5             3            0.03515
+   3          L_atifi         0.08922
+   3          S_salam         0.08344
+  12             9            0.01515
+   9             8            0.01246
+   8             2            0.06385
+   2          R_denny         0.12174
+   2          R_schleg        0.10711
+   8          H_marmo         0.19182
+   9          L_boring        0.16255
+   7             6            0.01779
+   6             1            0.05776
+   1          A_crist         0.06972
+   1          I_iguana        0.08496
+   6          G_chinen        0.18153
+   7          C_chama         0.24279
+
+
+Data set # 48:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +----------L_boring  
+     !  
+     !       +---------M_muscul  
+     !     +-8 
+     !     ! +--------B_micro   
+  +-12     !  
+  !  !  +-10   +------T_carni   
+  !  !  !  ! +-4 
+  !  !  !  ! ! +-------P_brev    
+  !  !  !  +-6 
+  !  !  !    ! +-----L_atifi   
+  !  +-11    +-3 
+  !     !      +-----S_salam   
+  !     !  
+  !     !     +------R_denny   
+  !     ! +---1 
+  !     +-9   +-----R_schleg  
+  !       ! 
+  !       +------------H_marmo   
+  ! 
+  !    +----A_crist   
+  ! +--2 
+  7-5  +----I_iguana  
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            12            0.02252
+  12          L_boring        0.18116
+  12            11            0.00063
+  11            10            0.00886
+  10             8            0.01763
+   8          M_muscul        0.16440
+   8          B_micro         0.14748
+  10             6            0.02711
+   6             4            0.02045
+   4          T_carni         0.11824
+   4          P_brev          0.13344
+   6             3            0.04911
+   3          L_atifi         0.09043
+   3          S_salam         0.09860
+  11             9            0.01452
+   9             1            0.06435
+   1          R_denny         0.12157
+   1          R_schleg        0.09461
+   9          H_marmo         0.21117
+   7             5            0.01495
+   5             2            0.05156
+   2          A_crist         0.07801
+   2          I_iguana        0.08524
+   5          G_chinen        0.19202
+   7          C_chama         0.25125
+
+
+Data set # 49:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  ! 
+  !    +-----------M_muscul  
+  !    !  
+  !    !          +-------R_denny   
+  !    !      +---1 
+  ! +-10    +-8   +------R_schleg  
+  ! !  !    ! ! 
+  ! !  !  +-9 +---------B_micro   
+  ! !  !  ! ! 
+  ! !  !  ! +-------------H_marmo   
+  ! !  +-11  
+  ! !     !  +----------L_boring  
+  ! !     !  !  
+  6-7     +-12     +-----L_atifi   
+  ! !        ! +---2 
+  ! !        ! !   +----S_salam   
+  ! !        +-5 
+  ! !          ! +-------P_brev    
+  ! !          +-4 
+  ! !            +-------T_carni   
+  ! ! 
+  ! !  +-----A_crist   
+  ! +--3 
+  !    +-----I_iguana  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.18650
+   6             7            0.01194
+   7            10            0.02151
+  10          M_muscul        0.19711
+  10            11            0.00389
+  11             9            0.01077
+   9             8            0.01476
+   8             1            0.07315
+   1          R_denny         0.13284
+   1          R_schleg        0.10636
+   8          B_micro         0.17218
+   9          H_marmo         0.23689
+  11            12            0.00301
+  12          L_boring        0.17495
+  12             5            0.03374
+   5             2            0.06165
+   2          L_atifi         0.09458
+   2          S_salam         0.08639
+   5             4            0.01626
+   4          P_brev          0.12331
+   4          T_carni         0.13242
+   7             3            0.05967
+   3          A_crist         0.10266
+   3          I_iguana        0.10136
+   6          C_chama         0.24902
+
+
+Data set # 50:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-------------H_marmo   
+  ! 
+  !            +-------T_carni   
+  !          +-4 
+  !          ! +-------P_brev    
+  !       +--5 
+  !       !  ! +------L_atifi   
+  !       !  +-3 
+  !    +-10    +------S_salam   
+  !    !  !  
+  !    !  ! +----------M_muscul  
+  !    !  +-7 
+  !    !    !   +-----A_crist   
+  ! +-11    +---2 
+  ! !  !        +-----I_iguana  
+  ! !  !  
+  ! !  !    +---------B_micro   
+  ! !  !  +-8 
+  6-9  !  ! +-----------L_boring  
+  ! !  +-12  
+  ! !     !    +-----R_schleg  
+  ! !     +----1 
+  ! !          +------R_denny   
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          H_marmo         0.22999
+   6             9            0.01270
+   9            11            0.01367
+  11            10            0.01345
+  10             5            0.04081
+   5             4            0.01275
+   4          T_carni         0.13426
+   4          P_brev          0.13346
+   5             3            0.04368
+   3          L_atifi         0.10752
+   3          S_salam         0.10360
+  10             7            0.01419
+   7          M_muscul        0.18509
+   7             2            0.06357
+   2          A_crist         0.09325
+   2          I_iguana        0.10098
+  11            12            0.00962
+  12             8            0.01206
+   8          B_micro         0.16740
+   8          L_boring        0.19410
+  12             1            0.07589
+   1          R_schleg        0.09696
+   1          R_denny         0.12820
+   9          G_chinen        0.21288
+   6          C_chama         0.23225
+
+
+Data set # 51:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+         +----------L_boring  
+       +-8 
+       ! +-------------H_marmo   
+     +-9 
+     ! !    +---------R_denny   
+     ! +----1 
+     !      +------R_schleg  
+     !  
+  +-10       +-------T_carni   
+  !  !     +-4 
+  !  !     ! +--------P_brev    
+  !  !  +--5 
+  !  !  !  !  +------L_atifi   
+  !  !  !  +--3 
+  !  +-12     +------S_salam   
+  !     !  
+  !     !  +-----------M_muscul  
+  !     +-11  
+  !        +---------B_micro   
+  ! 
+  !     +-----I_iguana  
+  ! +---2 
+  7-6   +-----A_crist   
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            10            0.02514
+  10             9            0.00997
+   9             8            0.01280
+   8          L_boring        0.19122
+   8          H_marmo         0.22911
+   9             1            0.08861
+   1          R_denny         0.15687
+   1          R_schleg        0.10963
+  10            12            0.01185
+  12             5            0.05093
+   5             4            0.01114
+   4          T_carni         0.14158
+   4          P_brev          0.14390
+   5             3            0.04268
+   3          L_atifi         0.11314
+   3          S_salam         0.11211
+  12            11            0.00495
+  11          M_muscul        0.20907
+  11          B_micro         0.17280
+   7             6            0.01737
+   6             2            0.06282
+   2          I_iguana        0.10122
+   2          A_crist         0.10014
+   6          G_chinen        0.20777
+   7          C_chama         0.25184
+
+
+Data set # 52:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +---A_crist   
+    +---2 
+    !   +-----I_iguana  
+    ! 
+    !  +----------M_muscul  
+  +-7  !  
+  ! !  !         +----------L_boring  
+  ! !  !       +-8 
+  ! !  !       ! +--------B_micro   
+  ! !  !     +-9 
+  ! +-11     ! !     +-----R_schleg  
+  !    !     ! +-----1 
+  !    !     !       +-----R_denny   
+  !    !  +-10  
+  !    !  !  !    +-----S_salam   
+  !    !  !  ! +--3 
+  !    !  !  ! !  +-----L_atifi   
+  !    +-12  +-6 
+  !       !    ! +-------P_brev    
+  !       !    +-4 
+  !       !      +------T_carni   
+  !       !  
+  !       +------------H_marmo   
+  ! 
+  5---------G_chinen  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   5             7            0.01942
+   7             2            0.05821
+   2          A_crist         0.07851
+   2          I_iguana        0.09799
+   7            11            0.02579
+  11          M_muscul        0.18464
+  11            12            0.00435
+  12            10            0.00705
+  10             9            0.00814
+   9             8            0.01316
+   8          L_boring        0.18597
+   8          B_micro         0.15474
+   9             1            0.09891
+   1          R_schleg        0.10080
+   1          R_denny         0.11063
+  10             6            0.02764
+   6             3            0.05575
+   3          S_salam         0.08544
+   3          L_atifi         0.09005
+   6             4            0.03808
+   4          P_brev          0.13212
+   4          T_carni         0.11084
+  12          H_marmo         0.21530
+   5          G_chinen        0.16910
+   5          C_chama         0.22074
+
+
+Data set # 53:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+          +-------P_brev    
+        +-4 
+        ! +-------T_carni   
+     +--5 
+     !  ! +-----L_atifi   
+     !  +-3 
+     !    +-----S_salam   
+     !  
+  +-12    +-----------H_marmo   
+  !  !  +-9 
+  !  !  ! ! +--------L_boring  
+  !  !  ! +-8 
+  !  !  !   !    +----R_schleg  
+  !  +-11   +----1 
+  !     !        +-----R_denny   
+  !     !  
+  !     !  +---------M_muscul  
+  !     +-10  
+  !        +--------B_micro   
+  ! 
+  !     +----I_iguana  
+  ! +---2 
+  7-6   +----A_crist   
+  ! ! 
+  ! +-----------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            12            0.02231
+  12             5            0.04431
+   5             4            0.00808
+   4          P_brev          0.12809
+   4          T_carni         0.12127
+   5             3            0.03933
+   3          L_atifi         0.09893
+   3          S_salam         0.09449
+  12            11            0.00082
+  11             9            0.01225
+   9          H_marmo         0.19737
+   9             8            0.00949
+   8          L_boring        0.16141
+   8             1            0.08257
+   1          R_schleg        0.08573
+   1          R_denny         0.10698
+  11            10            0.00681
+  10          M_muscul        0.17522
+  10          B_micro         0.15499
+   7             6            0.00673
+   6             2            0.06174
+   2          I_iguana        0.08863
+   2          A_crist         0.08340
+   6          G_chinen        0.19806
+   7          C_chama         0.23970
+
+
+Data set # 54:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +-----------H_marmo   
+    ! 
+    !        +----------M_muscul  
+    !     +-12  
+    !     !  +---------B_micro   
+  +-8     !  
+  ! !  +-11   +----------G_chinen  
+  ! !  !  ! +-6 
+  ! !  !  ! ! !   +----A_crist   
+  ! !  !  +-9 +---2 
+  ! !  !    !     +-----I_iguana  
+  ! +-10    ! 
+  !    !    +---------L_boring  
+  !    !  
+  !    !   +-------P_brev    
+  !    ! +-4 
+  !    ! ! +------T_carni   
+  !    +-5 
+  !      !  +----L_atifi   
+  !      +--3 
+  !         +-----S_salam   
+  ! 
+  !   +-----R_schleg  
+  7---1 
+  !   +-------R_denny   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.02067
+   8          H_marmo         0.20269
+   8            10            0.00880
+  10            11            0.00560
+  11            12            0.00424
+  12          M_muscul        0.18098
+  12          B_micro         0.16832
+  11             9            0.00666
+   9             6            0.02360
+   6          G_chinen        0.18808
+   6             2            0.06494
+   2          A_crist         0.09187
+   2          I_iguana        0.09544
+   9          L_boring        0.17808
+  10             5            0.04012
+   5             4            0.01619
+   4          P_brev          0.13238
+   4          T_carni         0.11677
+   5             3            0.04286
+   3          L_atifi         0.08933
+   3          S_salam         0.09756
+   7             1            0.07173
+   1          R_schleg        0.10146
+   1          R_denny         0.12405
+   7          C_chama         0.24770
+
+
+Data set # 55:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------H_marmo   
+  ! 
+  !          +----R_schleg  
+  !      +---1 
+  !    +-8   +-----R_denny   
+  !    ! ! 
+  !  +-9 +----------L_boring  
+  !  ! ! 
+  !  ! +--------B_micro   
+  !  !  
+  !  !      +-----L_atifi   
+  7-10    +-3 
+  !  !    ! +-----S_salam   
+  !  !  +-5 
+  !  !  ! ! +------T_carni   
+  !  !  ! +-4 
+  !  +-11   +-------P_brev    
+  !     !  
+  !     !  +----------G_chinen  
+  !     !  !  
+  !     +-12     +----A_crist   
+  !        ! +---2 
+  !        +-6   +----I_iguana  
+  !          ! 
+  !          +--------M_muscul  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7          H_marmo         0.18322
+   7            10            0.02622
+  10             9            0.00792
+   9             8            0.00986
+   8             1            0.06524
+   1          R_schleg        0.08440
+   1          R_denny         0.10521
+   8          L_boring        0.18453
+   9          B_micro         0.14944
+  10            11            0.00544
+  11             5            0.03554
+   5             3            0.03319
+   3          L_atifi         0.09612
+   3          S_salam         0.09254
+   5             4            0.01701
+   4          T_carni         0.12255
+   4          P_brev          0.13807
+  11            12            0.00454
+  12          G_chinen        0.18511
+  12             6            0.02155
+   6             2            0.05440
+   2          A_crist         0.08345
+   2          I_iguana        0.08309
+   6          M_muscul        0.14222
+   7          C_chama         0.22078
+
+
+Data set # 56:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+              +-----I_iguana  
+          +---2 
+        +-7   +-----A_crist   
+        ! ! 
+        ! +---------M_muscul  
+     +-11  
+     !  !   +------T_carni   
+     !  ! +-4 
+     !  ! ! +------P_brev    
+     !  +-5 
+     !    !  +-----L_atifi   
+     !    +--3 
+  +-12       +----S_salam   
+  !  !  
+  !  !         +-------R_denny   
+  !  !    +----1 
+  !  !  +-8    +-----R_schleg  
+  !  !  ! ! 
+  !  +-10 +-----------H_marmo   
+  !     !  
+  !     ! +---------B_micro   
+  !     +-9 
+  !       +---------L_boring  
+  ! 
+  6----------G_chinen  
+  ! 
+  +-----------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6            12            0.02940
+  12            11            0.00368
+  11             7            0.01437
+   7             2            0.07136
+   2          I_iguana        0.08975
+   2          A_crist         0.09163
+   7          M_muscul        0.16859
+  11             5            0.03562
+   5             4            0.01966
+   4          T_carni         0.10786
+   4          P_brev          0.11777
+   5             3            0.04893
+   3          L_atifi         0.09130
+   3          S_salam         0.07957
+  12            10            0.01132
+  10             8            0.01106
+   8             1            0.08342
+   1          R_denny         0.12982
+   1          R_schleg        0.09243
+   8          H_marmo         0.20633
+  10             9            0.00849
+   9          B_micro         0.16307
+   9          L_boring        0.17445
+   6          G_chinen        0.17564
+   6          C_chama         0.20786
+
+
+Data set # 57:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +-----R_schleg  
+    +---2 
+  +-6   +--------R_denny   
+  ! ! 
+  ! +------------H_marmo   
+  ! 
+  !  +------------G_chinen  
+  !  !  
+  !  !          +------I_iguana  
+  !  !       +--1 
+  !  !     +-9  +-----A_crist   
+  7-12     ! ! 
+  !  !  +-10 +-----------M_muscul  
+  !  !  !  !  
+  !  !  !  ! +---------B_micro   
+  !  !  !  +-8 
+  !  +-11    +-----------L_boring  
+  !     !  
+  !     !    +-------T_carni   
+  !     !  +-4 
+  !     !  ! +-------P_brev    
+  !     +--5 
+  !        ! +-----S_salam   
+  !        +-3 
+  !          +-----L_atifi   
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             6            0.00597
+   6             2            0.06542
+   2          R_schleg        0.08994
+   2          R_denny         0.14455
+   6          H_marmo         0.21488
+   7            12            0.03139
+  12          G_chinen        0.21194
+  12            11            0.00455
+  11            10            0.00862
+  10             9            0.01788
+   9             1            0.06154
+   1          I_iguana        0.11440
+   1          A_crist         0.08527
+   9          M_muscul        0.19752
+  10             8            0.01870
+   8          B_micro         0.16528
+   8          L_boring        0.20094
+  11             5            0.04012
+   5             4            0.01292
+   4          T_carni         0.13394
+   4          P_brev          0.13131
+   5             3            0.04055
+   3          S_salam         0.10075
+   3          L_atifi         0.10682
+   7          C_chama         0.26188
+
+
+Data set # 58:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+          +--------B_micro   
+        +-8 
+        ! +----------M_muscul  
+        !  
+     +-11       +-----R_schleg  
+     !  !  +----2 
+     !  !  !    +------R_denny   
+     !  +-10  
+     !     ! +---------L_boring  
+  +-12     +-9 
+  !  !       +------------H_marmo   
+  !  !  
+  !  !    +-----L_atifi   
+  !  ! +--3 
+  !  ! !  +-----S_salam   
+  !  +-5 
+  !    ! +-------P_brev    
+  !    +-4 
+  !      +------T_carni   
+  ! 
+  ! +----------G_chinen  
+  7-6 
+  ! !  +-----A_crist   
+  ! +--1 
+  !    +---I_iguana  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            12            0.03538
+  12            11            0.00558
+  11             8            0.02050
+   8          B_micro         0.15355
+   8          M_muscul        0.18103
+  11            10            0.01308
+  10             2            0.07547
+   2          R_schleg        0.10402
+   2          R_denny         0.11722
+  10             9            0.01180
+   9          L_boring        0.16524
+   9          H_marmo         0.21840
+  12             5            0.03111
+   5             3            0.05336
+   3          L_atifi         0.09204
+   3          S_salam         0.08948
+   5             4            0.01348
+   4          P_brev          0.13538
+   4          T_carni         0.12606
+   7             6            0.00843
+   6          G_chinen        0.19127
+   6             1            0.06507
+   1          A_crist         0.09271
+   1          I_iguana        0.06805
+   7          C_chama         0.21472
+
+
+Data set # 59:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +----------G_chinen  
+  +-6 
+  ! ! +-----A_crist   
+  ! +-2 
+  !   +-----I_iguana  
+  ! 
+  !            +-------R_denny   
+  !       +----1 
+  !     +-7    +-----R_schleg  
+  !     ! ! 
+  !     ! +---------L_boring  
+  !  +-10  
+  !  !  !    +-----S_salam   
+  !  !  !  +-3 
+  !  !  !  ! +-----L_atifi   
+  !  !  +--5 
+  8-11     ! +-------T_carni   
+  !  !     +-4 
+  !  !       +--------P_brev    
+  !  !  
+  !  !  +-------------H_marmo   
+  !  +-12  
+  !     ! +----------M_muscul  
+  !     +-9 
+  !       +---------B_micro   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8             6            0.02871
+   6          G_chinen        0.19514
+   6             2            0.04131
+   2          A_crist         0.09426
+   2          I_iguana        0.09620
+   8            11            0.01492
+  11            10            0.00605
+  10             7            0.01348
+   7             1            0.08448
+   1          R_denny         0.12617
+   1          R_schleg        0.09821
+   7          L_boring        0.16433
+  10             5            0.04180
+   5             3            0.04511
+   3          S_salam         0.09055
+   3          L_atifi         0.09216
+   5             4            0.00900
+   4          T_carni         0.13090
+   4          P_brev          0.13975
+  11            12            0.00361
+  12          H_marmo         0.22672
+  12             9            0.01066
+   9          M_muscul        0.18378
+   9          B_micro         0.16404
+   8          C_chama         0.24343
+
+
+Data set # 60:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +-----------H_marmo   
+           +-6 
+           ! !   +--------R_denny   
+           ! +---1 
+        +-10     +------R_schleg  
+        !  !  
+        !  ! +---------L_boring  
+        !  +-9 
+     +-11    +--------B_micro   
+     !  !  
+     !  ! +--------P_brev    
+     !  +-5 
+     !    ! +------T_carni   
+  +-12    +-4 
+  !  !      ! +----S_salam   
+  !  !      +-3 
+  !  !        +-----L_atifi   
+  !  !  
+  !  +----------M_muscul  
+  ! 
+  !    +-----A_crist   
+  ! +--2 
+  8-7  +-----I_iguana  
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8            12            0.02636
+  12            11            0.00087
+  11            10            0.01674
+  10             6            0.02042
+   6          H_marmo         0.20720
+   6             1            0.07163
+   1          R_denny         0.14901
+   1          R_schleg        0.10957
+  10             9            0.00498
+   9          L_boring        0.17186
+   9          B_micro         0.15900
+  11             5            0.04332
+   5          P_brev          0.15238
+   5             4            0.00788
+   4          T_carni         0.12325
+   4             3            0.02252
+   3          S_salam         0.08895
+   3          L_atifi         0.10706
+  12          M_muscul        0.19538
+   8             7            0.00193
+   7             2            0.05194
+   2          A_crist         0.09078
+   2          I_iguana        0.09549
+   7          G_chinen        0.18650
+   8          C_chama         0.27438
+
+
+Data set # 61:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +-------------G_chinen  
+     +-9 
+     ! +---------B_micro   
+     !  
+     !      +------------H_marmo   
+     !    +-7 
+  +-11    ! +-----------L_boring  
+  !  !  +-8 
+  !  !  ! !    +--------R_denny   
+  !  !  ! +----1 
+  !  !  !      +------R_schleg  
+  !  +-10  
+  !     !     +------S_salam   
+  !     ! +---3 
+  !     ! !   +------L_atifi   
+  !     +-5 
+  !       ! +--------T_carni   
+  !       +-4 
+  !         +--------P_brev    
+  !  
+  !     +-----A_crist   
+  ! +---2 
+ 12-6   +------I_iguana  
+  ! ! 
+  ! +------------M_muscul  
+  !  
+  +----------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+  12            11            0.00635
+  11             9            0.01676
+   9          G_chinen        0.21904
+   9          B_micro         0.16124
+  11            10            0.01195
+  10             8            0.01408
+   8             7            0.01326
+   7          H_marmo         0.21789
+   7          L_boring        0.20095
+   8             1            0.08834
+   1          R_denny         0.15233
+   1          R_schleg        0.10945
+  10             5            0.03594
+   5             3            0.06981
+   3          S_salam         0.10110
+   3          L_atifi         0.10687
+   5             4            0.00815
+   4          T_carni         0.14705
+   4          P_brev          0.16152
+  12             6            0.02147
+   6             2            0.06927
+   2          A_crist         0.09631
+   2          I_iguana        0.10358
+   6          M_muscul        0.20360
+  12          C_chama         0.27538
+
+
+Data set # 62:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  ! 
+  !    +---------B_micro   
+  !    !  
+  !    !          +------R_denny   
+  ! +-10     +----1 
+  ! !  !  +-11    +-----R_schleg  
+  ! !  !  !  !  
+  ! !  +-12  +------------H_marmo   
+  ! !     !  
+  ! !     +-----------L_boring  
+  6-9 
+  ! !      +-------T_carni   
+  ! !    +-4 
+  ! !    ! +--------P_brev    
+  ! ! +--5 
+  ! ! !  ! +-----S_salam   
+  ! ! !  +-3 
+  ! +-8    +-----L_atifi   
+  !   ! 
+  !   !      +----I_iguana  
+  !   ! +----2 
+  !   +-7    +----A_crist   
+  !     ! 
+  !     +-----------M_muscul  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.18888
+   6             9            0.02541
+   9            10            0.00811
+  10          B_micro         0.16805
+  10            12            0.00775
+  12            11            0.00681
+  11             1            0.08325
+   1          R_denny         0.11222
+   1          R_schleg        0.09913
+  11          H_marmo         0.22653
+  12          L_boring        0.19718
+   9             8            0.00938
+   8             5            0.04474
+   5             4            0.00606
+   4          T_carni         0.13259
+   4          P_brev          0.14695
+   5             3            0.03451
+   3          S_salam         0.10165
+   3          L_atifi         0.09570
+   8             7            0.01727
+   7             2            0.07389
+   2          I_iguana        0.09825
+   2          A_crist         0.09021
+   7          M_muscul        0.18971
+   6          C_chama         0.22858
+
+
+Data set # 63:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +----------M_muscul  
+        +-10  
+        !  +--------B_micro   
+        !  
+     +-12       +----I_iguana  
+     !  !   +---2 
+     !  ! +-8   +---A_crist   
+     !  ! ! ! 
+     !  +-9 +---------L_boring  
+     !    ! 
+  +-11    +-----------G_chinen  
+  !  !  
+  !  !   +-------P_brev    
+  !  ! +-6 
+  !  ! ! !  +---S_salam   
+  !  +-7 +--3 
+  !    !    +-----L_atifi   
+  !    ! 
+  !    +-------T_carni   
+  ! 
+  !     +-----R_schleg  
+  ! +---1 
+  5-4   +-----R_denny   
+  ! ! 
+  ! +-----------H_marmo   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   5            11            0.02175
+  11            12            0.00294
+  12            10            0.00767
+  10          M_muscul        0.17686
+  10          B_micro         0.15702
+  12             9            0.00944
+   9             8            0.01199
+   8             2            0.06586
+   2          I_iguana        0.08583
+   2          A_crist         0.07488
+   8          L_boring        0.16938
+   9          G_chinen        0.19530
+  11             7            0.02898
+   7             6            0.00145
+   6          P_brev          0.12688
+   6             3            0.04599
+   3          S_salam         0.07595
+   3          L_atifi         0.09727
+   7          T_carni         0.13237
+   5             4            0.01259
+   4             1            0.07147
+   1          R_schleg        0.10381
+   1          R_denny         0.10542
+   4          H_marmo         0.20624
+   5          C_chama         0.22855
+
+
+Data set # 64:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +----------L_boring  
+        +-10  
+        !  +---------B_micro   
+        !  
+     +-11     +-----I_iguana  
+     !  !   +-2 
+     !  ! +-4 +-----A_crist   
+     !  ! ! ! 
+     !  +-7 +------------G_chinen  
+  +-12    ! 
+  !  !    +--------M_muscul  
+  !  !  
+  !  !    +-----L_atifi   
+  !  ! +--3 
+  !  ! !  +----S_salam   
+  !  +-6 
+  !    ! +------T_carni   
+  !    +-5 
+  !      +------P_brev    
+  ! 
+  !     +-----R_schleg  
+  ! +---1 
+  9-8   +------R_denny   
+  ! ! 
+  ! +------------H_marmo   
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   9            12            0.01834
+  12            11            0.00353
+  11            10            0.01528
+  10          L_boring        0.17135
+  10          B_micro         0.16061
+  11             7            0.02177
+   7             4            0.02398
+   4             2            0.03859
+   2          I_iguana        0.09123
+   2          A_crist         0.08778
+   4          G_chinen        0.21038
+   7          M_muscul        0.16301
+  12             6            0.03317
+   6             3            0.05045
+   3          L_atifi         0.09366
+   3          S_salam         0.08315
+   6             5            0.01651
+   5          T_carni         0.11717
+   5          P_brev          0.12197
+   9             8            0.00983
+   8             1            0.06791
+   1          R_schleg        0.10447
+   1          R_denny         0.12472
+   8          H_marmo         0.22020
+   9          C_chama         0.26111
+
+
+Data set # 65:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  !  
+  !           +-------P_brev    
+  !         +-4 
+  !         ! +------T_carni   
+  !       +-5 
+  !       ! ! +-----S_salam   
+  !       ! +-3 
+  !       !   +-----L_atifi   
+  !       ! 
+  !     +-9     +-------------H_marmo   
+  !     ! !   +-6 
+  !     ! !   ! !    +------R_denny   
+  !     ! ! +-7 +----1 
+  !     ! ! ! !      +-----R_schleg  
+  !  +-10 +-8 ! 
+  !  !  !   ! +---------L_boring  
+  !  !  !   ! 
+  !  !  !   +---------B_micro   
+ 12-11  !  
+  !  !  +---------M_muscul  
+  !  !  
+  !  !  +-----A_crist   
+  !  +--2 
+  !     +----I_iguana  
+  !  
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+  12          G_chinen        0.17750
+  12            11            0.01154
+  11            10            0.01388
+  10             9            0.01791
+   9             5            0.03840
+   5             4            0.02328
+   4          P_brev          0.12855
+   4          T_carni         0.11983
+   5             3            0.03330
+   3          S_salam         0.09749
+   3          L_atifi         0.09383
+   9             8            0.00999
+   8             7            0.01122
+   7             6            0.01012
+   6          H_marmo         0.22428
+   6             1            0.08247
+   1          R_denny         0.10491
+   1          R_schleg        0.09302
+   7          L_boring        0.17629
+   8          B_micro         0.15729
+  10          M_muscul        0.17317
+  11             2            0.04823
+   2          A_crist         0.10032
+   2          I_iguana        0.09801
+  12          C_chama         0.23619
+
+
+Data set # 66:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +----------L_boring  
+        !  
+        !        +------R_denny   
+     +-11    +---2 
+     !  !  +-9   +-----R_schleg  
+     !  !  ! ! 
+     !  +-12 +------------H_marmo   
+     !     !  
+     !     ! +--------B_micro   
+  +-10     +-8 
+  !  !       +----------M_muscul  
+  !  !  
+  !  !   +-------P_brev    
+  !  ! +-4 
+  !  ! ! +------T_carni   
+  !  +-5 
+  !    !  +----S_salam   
+  !    +--3 
+  !       +----L_atifi   
+  ! 
+  !     +----A_crist   
+  ! +---1 
+  7-6   +-----I_iguana  
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            10            0.02603
+  10            11            0.00635
+  11          L_boring        0.18769
+  11            12            0.00335
+  12             9            0.01121
+   9             2            0.07297
+   2          R_denny         0.12158
+   2          R_schleg        0.09161
+   9          H_marmo         0.21451
+  12             8            0.01614
+   8          B_micro         0.15119
+   8          M_muscul        0.17609
+  10             5            0.03524
+   5             4            0.01766
+   4          P_brev          0.13812
+   4          T_carni         0.11553
+   5             3            0.04933
+   3          S_salam         0.08720
+   3          L_atifi         0.08959
+   7             6            0.00435
+   6             1            0.06799
+   1          A_crist         0.08233
+   1          I_iguana        0.09651
+   6          G_chinen        0.21462
+   7          C_chama         0.24113
+
+
+Data set # 67:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +-----R_denny   
+    +---1 
+    !   +------R_schleg  
+    ! 
+    !  +---------L_boring  
+  +-9  !  
+  ! !  !            +----A_crist   
+  ! !  !         +--2 
+  ! !  !       +-6  +----I_iguana  
+  ! +-10       ! ! 
+  !    !     +-7 +---------M_muscul  
+  !    !     ! ! 
+  !    !  +-12 +---------G_chinen  
+  !    !  !  !  
+  !    !  !  +-------B_micro   
+  !    +-11  
+  !       !    +----S_salam   
+  !       ! +--3 
+  !       ! !  +----L_atifi   
+  !       +-5 
+  !         ! +------T_carni   
+  !         +-4 
+  !           +------P_brev    
+  ! 
+  8----------H_marmo   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8             9            0.00769
+   9             1            0.05809
+   1          R_denny         0.10914
+   1          R_schleg        0.11149
+   9            10            0.01147
+  10          L_boring        0.16481
+  10            11            0.00701
+  11            12            0.00656
+  12             7            0.01367
+   7             6            0.00887
+   6             2            0.04728
+   2          A_crist         0.08630
+   2          I_iguana        0.08064
+   6          M_muscul        0.16771
+   7          G_chinen        0.17023
+  12          B_micro         0.13805
+  11             5            0.02688
+   5             3            0.05158
+   3          S_salam         0.07188
+   3          L_atifi         0.07461
+   5             4            0.02082
+   4          T_carni         0.11441
+   4          P_brev          0.10713
+   8          H_marmo         0.18693
+   8          C_chama         0.24927
+
+
+Data set # 68:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  ! 
+  !     +----A_crist   
+  ! +---2 
+  ! !   +-----I_iguana  
+  ! ! 
+  ! !       +---------M_muscul  
+  ! !    +-10  
+  ! !    !  +-------B_micro   
+  6-7    !  
+  ! ! +-11    +------------H_marmo   
+  ! ! !  !  +-8 
+  ! ! !  !  ! +----------L_boring  
+  ! ! !  +-12  
+  ! ! !     !    +-----R_schleg  
+  ! +-9     +----1 
+  !   !          +-------R_denny   
+  !   ! 
+  !   !    +-----L_atifi   
+  !   ! +--3 
+  !   ! !  +-----S_salam   
+  !   +-5 
+  !     ! +-----T_carni   
+  !     +-4 
+  !       +-------P_brev    
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.18402
+   6             7            0.00210
+   7             2            0.07029
+   2          A_crist         0.07482
+   2          I_iguana        0.08997
+   7             9            0.01933
+   9            11            0.01170
+  11            10            0.01152
+  10          M_muscul        0.17624
+  10          B_micro         0.14685
+  11            12            0.00830
+  12             8            0.01331
+   8          H_marmo         0.21356
+   8          L_boring        0.17433
+  12             1            0.08057
+   1          R_schleg        0.10167
+   1          R_denny         0.12761
+   9             5            0.03259
+   5             3            0.04570
+   3          L_atifi         0.10020
+   3          S_salam         0.10163
+   5             4            0.02510
+   4          T_carni         0.11219
+   4          P_brev          0.14334
+   6          C_chama         0.25943
+
+
+Data set # 69:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +---L_atifi   
+          +--2 
+          !  +---S_salam   
+       +--5 
+       !  ! +------T_carni   
+       !  +-4 
+     +-9    +-------P_brev    
+     ! ! 
+     ! ! +--------B_micro   
+     ! +-8 
+  +-10   +---------M_muscul  
+  !  !  
+  !  !     +-----------H_marmo   
+  !  !  +-11  
+  !  !  !  +---------L_boring  
+  !  +-12  
+  !     !    +------R_denny   
+  !     +----1 
+  !          +-----R_schleg  
+  ! 
+  !     +----I_iguana  
+  ! +---3 
+  7-6   +----A_crist   
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            10            0.01510
+  10             9            0.00900
+   9             5            0.04109
+   5             2            0.04955
+   2          L_atifi         0.07625
+   2          S_salam         0.07475
+   5             4            0.00816
+   4          T_carni         0.11486
+   4          P_brev          0.12465
+   9             8            0.00833
+   8          B_micro         0.14368
+   8          M_muscul        0.17192
+  10            12            0.01637
+  12            11            0.00305
+  11          H_marmo         0.19677
+  11          L_boring        0.16803
+  12             1            0.07940
+   1          R_denny         0.11596
+   1          R_schleg        0.10149
+   7             6            0.00444
+   6             3            0.05944
+   3          I_iguana        0.08766
+   3          A_crist         0.08946
+   6          G_chinen        0.18040
+   7          C_chama         0.23720
+
+
+Data set # 70:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +---------B_micro   
+     +-8 
+     ! +---------M_muscul  
+     !  
+  +-11  +----------L_boring  
+  !  !  !  
+  !  !  !    +-------------H_marmo   
+  !  +-12  +-9 
+  !     !  ! !     +-----R_schleg  
+  !     !  ! +-----1 
+  !     !  !       +-----R_denny   
+  !     +-10  
+  !        !    +------S_salam   
+  !        !  +-3 
+  !        !  ! +------L_atifi   
+  !        +--5 
+  !           ! +------T_carni   
+  !           +-4 
+  !             +-------P_brev    
+  ! 
+  !    +-----I_iguana  
+  ! +--2 
+  7-6  +-----A_crist   
+  ! ! 
+  ! +-----------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            11            0.02127
+  11             8            0.01561
+   8          B_micro         0.15672
+   8          M_muscul        0.16773
+  11            12            0.00391
+  12          L_boring        0.19090
+  12            10            0.00721
+  10             9            0.00911
+   9          H_marmo         0.21870
+   9             1            0.09193
+   1          R_schleg        0.09584
+   1          R_denny         0.10225
+  10             5            0.04454
+   5             3            0.04648
+   3          S_salam         0.11276
+   3          L_atifi         0.10308
+   5             4            0.01978
+   4          T_carni         0.12196
+   4          P_brev          0.12857
+   7             6            0.02006
+   6             2            0.05355
+   2          I_iguana        0.08832
+   2          A_crist         0.09949
+   6          G_chinen        0.19303
+   7          C_chama         0.23960
+
+
+Data set # 71:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+          +----S_salam   
+       +--3 
+       !  +----L_atifi   
+     +-5 
+     ! ! +-------P_brev    
+     ! +-4 
+     !   +------T_carni   
+     !  
+  +-10        +---A_crist   
+  !  !    +---1 
+  !  !  +-6   +---I_iguana  
+  !  !  ! ! 
+  !  !  ! +---------M_muscul  
+  !  !  !  
+  !  +-11      +----------G_chinen  
+  !     !    +-7 
+  !     !  +-9 +-----------H_marmo   
+  !     !  ! ! 
+  !     +-12 +--------B_micro   
+  !        !  
+  !        +---------L_boring  
+  ! 
+  !   +-------R_denny   
+  8---2 
+  !   +-----R_schleg  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8            10            0.01054
+  10             5            0.03651
+   5             3            0.05141
+   3          S_salam         0.08773
+   3          L_atifi         0.08752
+   5             4            0.01553
+   4          P_brev          0.14027
+   4          T_carni         0.12259
+  10            11            0.00684
+  11             6            0.03005
+   6             1            0.06106
+   1          A_crist         0.08283
+   1          I_iguana        0.08130
+   6          M_muscul        0.16143
+  11            12            0.00161
+  12             9            0.01177
+   9             7            0.01107
+   7          G_chinen        0.18919
+   7          H_marmo         0.21339
+   9          B_micro         0.15735
+  12          L_boring        0.17016
+   8             2            0.07150
+   2          R_denny         0.12205
+   2          R_schleg        0.10270
+   8          C_chama         0.24038
+
+
+Data set # 72:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------H_marmo   
+  ! 
+  !       +--------B_micro   
+  !     +-8 
+  !     ! !   +-----R_denny   
+  !     ! +---2 
+  !     !     +----R_schleg  
+  !     !  
+  !  +-11       +-----L_atifi   
+  !  !  !    +--3 
+  !  !  !    !  +----S_salam   
+  !  !  !  +-5 
+  !  !  !  ! ! +-------P_brev    
+  !  !  +-12 +-4 
+  !  !     !   +------T_carni   
+  6-10     !  
+  !  !     +-----------M_muscul  
+  !  !  
+  !  !       +----I_iguana  
+  !  !   +---1 
+  !  ! +-7   +---A_crist   
+  !  ! ! ! 
+  !  +-9 +-----------G_chinen  
+  !    ! 
+  !    +----------L_boring  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          H_marmo         0.19783
+   6            10            0.02615
+  10            11            0.00653
+  11             8            0.01511
+   8          B_micro         0.15798
+   8             2            0.06105
+   2          R_denny         0.11428
+   2          R_schleg        0.09613
+  11            12            0.00333
+  12             5            0.03528
+   5             3            0.04038
+   3          L_atifi         0.10761
+   3          S_salam         0.08840
+   5             4            0.01824
+   4          P_brev          0.12067
+   4          T_carni         0.11558
+  12          M_muscul        0.19334
+  10             9            0.01031
+   9             7            0.01531
+   7             1            0.06151
+   1          I_iguana        0.08485
+   1          A_crist         0.07447
+   7          G_chinen        0.19186
+   9          L_boring        0.18123
+   6          C_chama         0.20939
+
+
+Data set # 73:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +----------G_chinen  
+    ! 
+    !         +------T_carni   
+    !       +-6 
+    !       ! !  +---S_salam   
+  +-8     +-7 +--2 
+  ! !     ! !    +----L_atifi   
+  ! !  +-10 ! 
+  ! !  !  ! +--------P_brev    
+  ! !  !  !  
+  ! !  !  +-----------M_muscul  
+  ! +-11  
+  !    !  +---------B_micro   
+  !    !  !  
+  !    !  !        +-------R_denny   
+  !    +-12   +----1 
+  !       ! +-5    +-----R_schleg  
+  !       ! ! ! 
+  !       +-9 +-----------H_marmo   
+  !         ! 
+  !         +-----------L_boring  
+  ! 
+  !  +-----A_crist   
+  4--3 
+  !  +-----I_iguana  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   4             8            0.01972
+   8          G_chinen        0.18123
+   8            11            0.02125
+  11            10            0.01224
+  10             7            0.03161
+   7             6            0.00722
+   6          T_carni         0.13116
+   6             2            0.05598
+   2          S_salam         0.07629
+   2          L_atifi         0.09244
+   7          P_brev          0.14499
+  10          M_muscul        0.19260
+  11            12            0.00883
+  12          B_micro         0.16849
+  12             9            0.01599
+   9             5            0.02084
+   5             1            0.08562
+   1          R_denny         0.12606
+   1          R_schleg        0.09262
+   5          H_marmo         0.20305
+   9          L_boring        0.19673
+   4             3            0.04858
+   3          A_crist         0.09380
+   3          I_iguana        0.10672
+   4          C_chama         0.21063
+
+
+Data set # 74:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+           +------------L_boring  
+        +-10  
+        !  +---------B_micro   
+     +-11  
+     !  ! +----------M_muscul  
+     !  ! ! 
+     !  +-9     +----I_iguana  
+     !    ! +---2 
+     !    +-8   +----A_crist   
+  +-12      ! 
+  !  !      +-----------G_chinen  
+  !  !  
+  !  !    +-----L_atifi   
+  !  ! +--3 
+  !  ! !  +-----S_salam   
+  !  +-5 
+  !    ! +--------T_carni   
+  !    +-4 
+  !      +-------P_brev    
+  ! 
+  !      +-------R_denny   
+  ! +----1 
+  7-6    +-----R_schleg  
+  ! ! 
+  ! +-------------H_marmo   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            12            0.01981
+  12            11            0.00349
+  11            10            0.01070
+  10          L_boring        0.20915
+  10          B_micro         0.17370
+  11             9            0.01198
+   9          M_muscul        0.18461
+   9             8            0.00839
+   8             2            0.06610
+   2          I_iguana        0.09140
+   2          A_crist         0.09135
+   8          G_chinen        0.20668
+  12             5            0.03777
+   5             3            0.05064
+   3          L_atifi         0.09140
+   3          S_salam         0.09909
+   5             4            0.01305
+   4          T_carni         0.13992
+   4          P_brev          0.13716
+   7             6            0.01411
+   6             1            0.08449
+   1          R_denny         0.12923
+   1          R_schleg        0.10964
+   6          H_marmo         0.23127
+   7          C_chama         0.24568
+
+
+Data set # 75:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+         +---------M_muscul  
+       +-6 
+       ! +--------B_micro   
+       !  
+    +-10        +-----R_schleg  
+    !  !  +-----1 
+    !  !  !     +-------R_denny   
+    !  +-12  
+    !     !  +----------L_boring  
+  +-9     +-11  
+  ! !        +------------H_marmo   
+  ! ! 
+  ! !     +----L_atifi   
+  ! ! +---3 
+  ! ! !   +----S_salam   
+  ! +-5 
+  !   ! +-------T_carni   
+  !   +-4 
+  !     +-------P_brev    
+  ! 
+  !    +-----A_crist   
+  ! +--2 
+  8-7  +------I_iguana  
+  ! ! 
+  ! +-----------G_chinen  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8             9            0.02009
+   9            10            0.00825
+  10             6            0.02263
+   6          M_muscul        0.16903
+   6          B_micro         0.15440
+  10            12            0.01587
+  12             1            0.10379
+   1          R_schleg        0.09470
+   1          R_denny         0.12704
+  12            11            0.00441
+  11          L_boring        0.18300
+  11          H_marmo         0.22332
+   9             5            0.03590
+   5             3            0.05491
+   3          L_atifi         0.09302
+   3          S_salam         0.09493
+   5             4            0.02015
+   4          T_carni         0.13350
+   4          P_brev          0.14458
+   8             7            0.00907
+   7             2            0.06272
+   2          A_crist         0.09012
+   2          I_iguana        0.10511
+   7          G_chinen        0.20687
+   8          C_chama         0.21834
+
+
+Data set # 76:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  ! 
+  !      +----I_iguana  
+  !   +--3 
+  ! +-6  +----A_crist   
+  ! ! ! 
+  ! ! +---------M_muscul  
+  ! ! 
+  ! !          +-----L_atifi   
+  ! !       +--2 
+  7-9     +-4  +----S_salam   
+  ! !     ! ! 
+  ! !  +--5 +-------T_carni   
+  ! !  !  ! 
+  ! !  !  +-------P_brev    
+  ! !  !  
+  ! +-10     +----------L_boring  
+  !    !     !  
+  !    !  +-11      +----R_schleg  
+  !    !  !  ! +----1 
+  !    !  !  +-8    +------R_denny   
+  !    +-12    ! 
+  !       !    +------------H_marmo   
+  !       !  
+  !       +---------B_micro   
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7          G_chinen        0.20739
+   7             9            0.01350
+   9             6            0.01482
+   6             3            0.05242
+   3          I_iguana        0.09071
+   3          A_crist         0.09143
+   6          M_muscul        0.16852
+   9            10            0.00555
+  10             5            0.04233
+   5             4            0.01188
+   4             2            0.04346
+   2          L_atifi         0.09346
+   2          S_salam         0.07750
+   4          T_carni         0.12844
+   5          P_brev          0.14371
+  10            12            0.01322
+  12            11            0.00255
+  11          L_boring        0.18184
+  11             8            0.01225
+   8             1            0.08931
+   1          R_schleg        0.07846
+   1          R_denny         0.11778
+   8          H_marmo         0.22615
+  12          B_micro         0.16566
+   7          C_chama         0.21363
+
+
+Data set # 77:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +-----------L_boring  
+     +-9 
+     ! +----------B_micro   
+     !  
+     !    +----------G_chinen  
+  +-11  +-4 
+  !  !  ! ! +----A_crist   
+  !  !  ! +-2 
+  !  !  !   +----I_iguana  
+  !  +-12  
+  !     !  +----------M_muscul  
+  !     !  !  
+  !     !  !     +-----L_atifi   
+  !     +-10   +-3 
+  !        ! +-5 +-----S_salam   
+  !        ! ! ! 
+  !        +-6 +-------T_carni   
+  !          ! 
+  !          +--------P_brev    
+  ! 
+  !      +-------R_denny   
+  ! +----1 
+  8-7    +-----R_schleg  
+  ! ! 
+  ! +------------H_marmo   
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8            11            0.01367
+  11             9            0.01016
+   9          L_boring        0.19061
+   9          B_micro         0.17062
+  11            12            0.00483
+  12             4            0.02515
+   4          G_chinen        0.18171
+   4             2            0.04768
+   2          A_crist         0.07854
+   2          I_iguana        0.08099
+  12            10            0.00909
+  10          M_muscul        0.18401
+  10             6            0.02649
+   6             5            0.00635
+   5             3            0.04196
+   3          L_atifi         0.09940
+   3          S_salam         0.09623
+   5          T_carni         0.13590
+   6          P_brev          0.14492
+   8             7            0.01579
+   7             1            0.08485
+   1          R_denny         0.12632
+   1          R_schleg        0.09557
+   7          H_marmo         0.22007
+   8          C_chama         0.22434
+
+
+Data set # 78:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-------------G_chinen  
+  !  
+  !           +-------R_denny   
+  !      +----1 
+  !    +-7    +-----R_schleg  
+  !    ! ! 
+  !  +-9 +----------L_boring  
+  !  ! ! 
+  !  ! ! +--------------H_marmo   
+  !  ! +-8 
+  !  !   +----------B_micro   
+  !  !  
+ 11-12        +-----I_iguana  
+  !  !    +---2 
+  !  !  +-6   +-----A_crist   
+  !  !  ! ! 
+  !  !  ! +-----------M_muscul  
+  !  +-10  
+  !     !     +----S_salam   
+  !     !  +--3 
+  !     !  !  +-----L_atifi   
+  !     +--5 
+  !        ! +--------P_brev    
+  !        +-4 
+  !          +-------T_carni   
+  !  
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+  11          G_chinen        0.23073
+  11            12            0.01095
+  12             9            0.01989
+   9             7            0.01525
+   7             1            0.08912
+   1          R_denny         0.13054
+   1          R_schleg        0.09947
+   7          L_boring        0.17975
+   9             8            0.00716
+   8          H_marmo         0.23916
+   8          B_micro         0.17769
+  12            10            0.01179
+  10             6            0.01641
+   6             2            0.05937
+   2          I_iguana        0.09618
+   2          A_crist         0.09689
+   6          M_muscul        0.19010
+  10             5            0.03564
+   5             3            0.05659
+   3          S_salam         0.09009
+   3          L_atifi         0.09841
+   5             4            0.00682
+   4          P_brev          0.14887
+   4          T_carni         0.13922
+  11          C_chama         0.24424
+
+
+Data set # 79:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +------I_iguana  
+           +-2 
+         +-4 +-----A_crist   
+         ! ! 
+       +-9 +----------M_muscul  
+       ! ! 
+       ! +------------G_chinen  
+       !  
+       !      +-------T_carni   
+    +-12    +-5 
+    !  !    ! +-------P_brev    
+    !  !  +-6 
+    !  !  ! !  +-----S_salam   
+    !  !  ! +--3 
+  +-8  +-11    +-----L_atifi   
+  ! !     !  
+  ! !     !  +----------B_micro   
+  ! !     +-10  
+  ! !        +-----------L_boring  
+  ! ! 
+  ! +-------------H_marmo   
+  ! 
+  !    +------R_denny   
+  7----1 
+  !    +-----R_schleg  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.00757
+   8            12            0.01711
+  12             9            0.00980
+   9             4            0.03214
+   4             2            0.04161
+   2          I_iguana        0.11306
+   2          A_crist         0.08728
+   4          M_muscul        0.18950
+   9          G_chinen        0.21029
+  12            11            0.00609
+  11             6            0.03255
+   6             5            0.01529
+   5          T_carni         0.13928
+   5          P_brev          0.14312
+   6             3            0.05101
+   3          S_salam         0.10382
+   3          L_atifi         0.09485
+  11            10            0.00692
+  10          B_micro         0.17375
+  10          L_boring        0.19022
+   8          H_marmo         0.22325
+   7             1            0.07529
+   1          R_denny         0.12716
+   1          R_schleg        0.11421
+   7          C_chama         0.24980
+
+
+Data set # 80:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                 +----------G_chinen  
+               +-5 
+               ! !  +-----I_iguana  
+             +-8 +--2 
+             ! !    +----A_crist   
+             ! ! 
+             ! +--------M_muscul  
+           +-9 
+           ! !   +------T_carni   
+           ! ! +-4 
+           ! ! ! +------P_brev    
+        +-10 +-6 
+        !  !   ! +----L_atifi   
+        !  !   +-3 
+     +-11  !     +-----S_salam   
+     !  !  !  
+     !  !  +--------B_micro   
+  +-12  !  
+  !  !  +---------L_boring  
+  !  !  
+  !  +-----------H_marmo   
+  ! 
+  !   +----R_schleg  
+  7---1 
+  !   +-----R_denny   
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            12            0.01702
+  12            11            0.00523
+  11            10            0.00633
+  10             9            0.00733
+   9             8            0.00753
+   8             5            0.02768
+   5          G_chinen        0.17092
+   5             2            0.04790
+   2          I_iguana        0.09157
+   2          A_crist         0.08485
+   8          M_muscul        0.16056
+   9             6            0.02646
+   6             4            0.01706
+   4          T_carni         0.12243
+   4          P_brev          0.11621
+   6             3            0.03810
+   3          L_atifi         0.09023
+   3          S_salam         0.09306
+  10          B_micro         0.15216
+  11          L_boring        0.16735
+  12          H_marmo         0.19760
+   7             1            0.06514
+   1          R_schleg        0.08465
+   1          R_denny         0.09719
+   7          C_chama         0.21639
+
+
+Data set # 81:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----------G_chinen  
+  ! 
+  !    +---------M_muscul  
+  !  +-7 
+  !  ! !   +-----I_iguana  
+  !  ! +---2 
+  !  !     +-----A_crist   
+  !  !  
+  !  !       +---------B_micro   
+  6-12     +-9 
+  !  !     ! +----------L_boring  
+  !  !  +-10  
+  !  !  !  !    +-----R_schleg  
+  !  !  !  ! +--1 
+  !  !  !  +-8  +--------R_denny   
+  !  !  !    ! 
+  !  +-11    +----------H_marmo   
+  !     !  
+  !     !   +-------P_brev    
+  !     ! +-4 
+  !     ! ! +------T_carni   
+  !     +-5 
+  !       !  +----S_salam   
+  !       +--3 
+  !          +----L_atifi   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6          G_chinen        0.19123
+   6            12            0.03088
+  12             7            0.02197
+   7          M_muscul        0.16628
+   7             2            0.05870
+   2          I_iguana        0.09933
+   2          A_crist         0.10078
+  12            11            0.00679
+  11            10            0.02206
+  10             9            0.00833
+   9          B_micro         0.16359
+   9          L_boring        0.18707
+  10             8            0.01882
+   8             1            0.05991
+   1          R_schleg        0.09602
+   1          R_denny         0.14269
+   8          H_marmo         0.19450
+  11             5            0.03239
+   5             4            0.01648
+   4          P_brev          0.12443
+   4          T_carni         0.12087
+   5             3            0.04050
+   3          S_salam         0.09129
+   3          L_atifi         0.09509
+   6          C_chama         0.23440
+
+
+Data set # 82:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+                +-------R_denny   
+          +-----1 
+        +-9     +-----R_schleg  
+        ! ! 
+        ! +----------L_boring  
+     +-12  
+     !  !    +--------B_micro   
+     !  !  +-8 
+     !  +-11 +-----------M_muscul  
+     !     !  
+  +-10     +-------------H_marmo   
+  !  !  
+  !  !    +-------P_brev    
+  !  !  +-4 
+  !  !  ! +------T_carni   
+  !  +--5 
+  !     !  +----L_atifi   
+  !     +--3 
+  !        +----S_salam   
+  ! 
+  !     +-----I_iguana  
+  ! +---2 
+  7-6   +---A_crist   
+  ! ! 
+  ! +------------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            10            0.02003
+  10            12            0.00431
+  12             9            0.00954
+   9             1            0.09567
+   1          R_denny         0.13033
+   1          R_schleg        0.10087
+   9          L_boring        0.18036
+  12            11            0.00298
+  11             8            0.01155
+   8          B_micro         0.15022
+   8          M_muscul        0.19057
+  11          H_marmo         0.24215
+  10             5            0.04485
+   5             4            0.01290
+   4          P_brev          0.13678
+   4          T_carni         0.12076
+   5             3            0.05458
+   3          L_atifi         0.08738
+   3          S_salam         0.08619
+   7             6            0.01010
+   6             2            0.06976
+   2          I_iguana        0.09862
+   2          A_crist         0.07047
+   6          G_chinen        0.22488
+   7          C_chama         0.24195
+
+
+Data set # 83:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +----S_salam   
+         +---3 
+         !   +----L_atifi   
+      +--5 
+      !  ! +------T_carni   
+      !  +-4 
+      !    +--------P_brev    
+    +-9 
+    ! !        +--------B_micro   
+    ! !     +-10  
+    ! !  +-11  +----------L_boring  
+    ! !  !  !  
+  +-8 +-12  +-----------M_muscul  
+  ! !    !  
+  ! !    +------------H_marmo   
+  ! ! 
+  ! !      +-----R_denny   
+  ! +------1 
+  !        +---R_schleg  
+  ! 
+  !     +-----A_crist   
+  ! +---2 
+  7-6   +-----I_iguana  
+  ! ! 
+  ! +-----------G_chinen  
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.01591
+   8             9            0.00403
+   9             5            0.05304
+   5             3            0.06072
+   3          S_salam         0.08858
+   3          L_atifi         0.08351
+   5             4            0.01002
+   4          T_carni         0.11379
+   4          P_brev          0.15858
+   9            12            0.01257
+  12            11            0.00256
+  11            10            0.00896
+  10          B_micro         0.15985
+  10          L_boring        0.18524
+  11          M_muscul        0.19018
+  12          H_marmo         0.21035
+   8             1            0.10987
+   1          R_denny         0.11043
+   1          R_schleg        0.07902
+   7             6            0.02053
+   6             2            0.06713
+   2          A_crist         0.08914
+   2          I_iguana        0.09144
+   6          G_chinen        0.20087
+   7          C_chama         0.22058
+
+
+Data set # 84:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +---------G_chinen  
+  +-6 
+  ! !  +----A_crist   
+  ! +--3 
+  !    +----I_iguana  
+  ! 
+  ! +-------------H_marmo   
+  ! ! 
+  ! !     +--------B_micro   
+  ! !     !  
+  ! !     !       +-------T_carni   
+  7-9  +-12     +-4 
+  ! !  !  !     ! ! +----S_salam   
+  ! !  !  !  +--5 +-2 
+  ! !  !  !  !  !   +-----L_atifi   
+  ! !  !  +-10  ! 
+  ! !  !     !  +--------P_brev    
+  ! +-11     !  
+  !    !     +----------M_muscul  
+  !    !  
+  !    !     +-------R_denny   
+  !    ! +---1 
+  !    +-8   +------R_schleg  
+  !      ! 
+  !      +---------L_boring  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             6            0.01049
+   6          G_chinen        0.17336
+   6             3            0.05005
+   3          A_crist         0.09123
+   3          I_iguana        0.08636
+   7             9            0.01882
+   9          H_marmo         0.22570
+   9            11            0.01003
+  11            12            0.00291
+  12          B_micro         0.15351
+  12            10            0.00895
+  10             5            0.04917
+   5             4            0.00492
+   4          T_carni         0.13691
+   4             2            0.03914
+   2          S_salam         0.09074
+   2          L_atifi         0.09780
+   5          P_brev          0.14671
+  10          M_muscul        0.18383
+  11             8            0.01866
+   8             1            0.06545
+   1          R_denny         0.13227
+   1          R_schleg        0.11221
+   8          L_boring        0.17663
+   7          C_chama         0.23539
+
+
+Data set # 85:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +------------G_chinen  
+    ! 
+    !            +----------L_boring  
+    !          +-8 
+    !          ! +-----------H_marmo   
+    !          ! 
+    !        +-9   +-------P_brev    
+    !        ! ! +-6 
+  +-5        ! ! ! +-------T_carni   
+  ! !        ! +-7 
+  ! !     +-10   !   +----L_atifi   
+  ! !     !  !   +---3 
+  ! !     !  !       +----S_salam   
+  ! !     !  !  
+  ! !  +-12  !    +-------R_denny   
+  ! !  !  !  +----2 
+  ! !  !  !       +------R_schleg  
+  ! +-11  !  
+  !    !  +---------B_micro   
+  !    !  
+  !    +-----------M_muscul  
+  ! 
+  !   +-----I_iguana  
+  4---1 
+  !   +-----A_crist   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   4             5            0.00964
+   5          G_chinen        0.21571
+   5            11            0.03238
+  11            12            0.00248
+  12            10            0.00550
+  10             9            0.00929
+   9             8            0.01825
+   8          L_boring        0.19049
+   8          H_marmo         0.20292
+   9             7            0.02652
+   7             6            0.01604
+   6          P_brev          0.13424
+   6          T_carni         0.13250
+   7             3            0.06575
+   3          L_atifi         0.07711
+   3          S_salam         0.08903
+  10             2            0.08529
+   2          R_denny         0.12887
+   2          R_schleg        0.11204
+  12          B_micro         0.16970
+  11          M_muscul        0.20323
+   4             1            0.06118
+   1          I_iguana        0.10950
+   1          A_crist         0.09913
+   4          C_chama         0.23909
+
+
+Data set # 86:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +------------G_chinen  
+    ! 
+    !             +-------P_brev    
+    !           +-4 
+    !           ! +-------T_carni   
+    !        +--5 
+    !        !  !  +----L_atifi   
+  +-7     +-11  +--3 
+  ! !     !  !     +----S_salam   
+  ! !     !  !  
+  ! !     !  +----------L_boring  
+  ! !  +-12  
+  ! !  !  !      +-----R_schleg  
+  ! !  !  ! +----1 
+  ! !  !  +-8    +-------R_denny   
+  ! +-10    ! 
+  !    !    +------------H_marmo   
+  !    !  
+  !    ! +---------M_muscul  
+  !    +-9 
+  !      +--------B_micro   
+  ! 
+  !   +----I_iguana  
+  6---2 
+  !   +----A_crist   
+  ! 
+  +------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             7            0.01461
+   7          G_chinen        0.22275
+   7            10            0.02503
+  10            12            0.01315
+  12            11            0.00549
+  11             5            0.04256
+   5             4            0.01277
+   4          P_brev          0.13373
+   4          T_carni         0.14183
+   5             3            0.05271
+   3          L_atifi         0.08213
+   3          S_salam         0.08289
+  11          L_boring        0.16896
+  12             8            0.02170
+   8             1            0.08136
+   1          R_schleg        0.10185
+   1          R_denny         0.12063
+   8          H_marmo         0.20803
+  10             9            0.00876
+   9          M_muscul        0.17515
+   9          B_micro         0.15259
+   6             2            0.06059
+   2          I_iguana        0.08473
+   2          A_crist         0.08400
+   6          C_chama         0.21716
+
+
+Data set # 87:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+             +-----R_schleg  
+        +----2 
+     +-10    +------R_denny   
+     !  !  
+     !  +------------H_marmo   
+     !  
+  +-11    +----------L_boring  
+  !  !  +-8 
+  !  !  ! +--------B_micro   
+  !  !  !  
+  !  !  !   +--------P_brev    
+  !  +-12   ! 
+  !     ! +-6    +-----L_atifi   
+  !     ! ! ! +--3 
+  !     ! ! +-5  +----S_salam   
+  !     +-9   ! 
+  !       !   +-------T_carni   
+  !       ! 
+  !       +------------M_muscul  
+  ! 
+  !     +------I_iguana  
+  ! +---1 
+  7-4   +-----A_crist   
+  ! ! 
+  ! +-----------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            11            0.02317
+  11            10            0.00704
+  10             2            0.07938
+   2          R_schleg        0.10608
+   2          R_denny         0.12925
+  10          H_marmo         0.21776
+  11            12            0.00208
+  12             8            0.01746
+   8          L_boring        0.18441
+   8          B_micro         0.15563
+  12             9            0.01375
+   9             6            0.02806
+   6          P_brev          0.14414
+   6             5            0.01476
+   5             3            0.05252
+   3          L_atifi         0.09357
+   3          S_salam         0.08811
+   5          T_carni         0.13648
+   9          M_muscul        0.21069
+   7             4            0.02476
+   4             1            0.05745
+   1          I_iguana        0.11559
+   1          A_crist         0.09285
+   4          G_chinen        0.18935
+   7          C_chama         0.25791
+
+
+Data set # 88:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-----------H_marmo   
+     !  
+     !  +----------M_muscul  
+  +-10  !  
+  !  !  !      +---------L_boring  
+  !  !  !    +-8 
+  !  +-11    ! !    +-----R_denny   
+  !     !  +-9 +----1 
+  !     !  ! !      +----R_schleg  
+  !     !  ! ! 
+  !     !  ! +--------B_micro   
+  !     +-12  
+  !        !    +-----T_carni   
+  !        !  +-4 
+  !        !  ! +------P_brev    
+  !        +--5 
+  !           ! +----S_salam   
+  !           +-3 
+  !             +----L_atifi   
+  ! 
+  !     +----A_crist   
+  ! +---2 
+  7-6   +-----I_iguana  
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7            10            0.01088
+  10          H_marmo         0.20870
+  10            11            0.00625
+  11          M_muscul        0.18096
+  11            12            0.00555
+  12             9            0.01015
+   9             8            0.00829
+   8          L_boring        0.16045
+   8             1            0.07252
+   1          R_denny         0.09973
+   1          R_schleg        0.09238
+   9          B_micro         0.15493
+  12             5            0.04448
+   5             4            0.01378
+   4          T_carni         0.10585
+   4          P_brev          0.11299
+   5             3            0.02666
+   3          S_salam         0.08680
+   3          L_atifi         0.09081
+   7             6            0.01747
+   6             2            0.06294
+   2          A_crist         0.09019
+   2          I_iguana        0.10277
+   6          G_chinen        0.18913
+   7          C_chama         0.22857
+
+
+Data set # 89:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  ! 
+  ! +-------------H_marmo   
+  ! ! 
+  ! !           +------R_denny   
+  ! !       +---2 
+  ! !     +-6   +-----R_schleg  
+  ! !     ! ! 
+  8-9     ! +---------B_micro   
+  ! !  +-10  
+  ! !  !  !   +------T_carni   
+  ! !  !  ! +-4 
+  ! !  !  ! ! +------P_brev    
+  ! !  !  +-5 
+  ! !  !    !  +----S_salam   
+  ! +-12    +--3 
+  !    !       +----L_atifi   
+  !    !  
+  !    !  +----------L_boring  
+  !    !  !  
+  !    +-11     +----I_iguana  
+  !       ! +---1 
+  !       +-7   +----A_crist   
+  !         ! 
+  !         +----------M_muscul  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8          G_chinen        0.19748
+   8             9            0.01380
+   9          H_marmo         0.23852
+   9            12            0.01161
+  12            10            0.00587
+  10             6            0.02037
+   6             2            0.05837
+   2          R_denny         0.12603
+   2          R_schleg        0.10485
+   6          B_micro         0.16560
+  10             5            0.03828
+   5             4            0.02730
+   4          T_carni         0.11644
+   4          P_brev          0.11921
+   5             3            0.04872
+   3          S_salam         0.08960
+   3          L_atifi         0.08718
+  12            11            0.00468
+  11          L_boring        0.18253
+  11             7            0.01938
+   7             1            0.06024
+   1          I_iguana        0.09514
+   1          A_crist         0.08290
+   7          M_muscul        0.18447
+   8          C_chama         0.23455
+
+
+Data set # 90:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +-------------H_marmo   
+    ! 
+    !     +--------B_micro   
+    !  +-10  
+  +-8  !  +----------L_boring  
+  ! !  !  
+  ! !  !        +-------T_carni   
+  ! !  !      +-4 
+  ! !  !      ! +--------P_brev    
+  ! +-12    +-5 
+  !    !    ! !   +----L_atifi   
+  !    !    ! +---3 
+  !    !  +-9     +----S_salam   
+  !    !  ! ! 
+  !    !  ! !    +------I_iguana  
+  !    !  ! ! +--2 
+  !    +-11 +-6  +-----A_crist   
+  !       !   ! 
+  !       !   +----------M_muscul  
+  !       !  
+  !       +-------------G_chinen  
+  ! 
+  !     +-----R_schleg  
+  7-----1 
+  !     +-------R_denny   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.00776
+   8          H_marmo         0.22894
+   8            12            0.01982
+  12            10            0.00785
+  10          B_micro         0.15239
+  10          L_boring        0.17333
+  12            11            0.00394
+  11             9            0.01179
+   9             5            0.03116
+   5             4            0.01597
+   4          T_carni         0.12837
+   4          P_brev          0.13881
+   5             3            0.05060
+   3          L_atifi         0.09674
+   3          S_salam         0.09490
+   9             6            0.01911
+   6             2            0.05948
+   2          I_iguana        0.10548
+   2          A_crist         0.09304
+   6          M_muscul        0.19014
+  11          G_chinen        0.23652
+   7             1            0.09262
+   1          R_schleg        0.10211
+   1          R_denny         0.14425
+   7          C_chama         0.22528
+
+
+Data set # 91:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +----R_schleg  
+    +---2 
+    !   +------R_denny   
+    ! 
+    !     +-----T_carni   
+    !   +-4 
+  +-7   ! +------P_brev    
+  ! ! +-5 
+  ! ! ! !  +----S_salam   
+  ! ! ! +--3 
+  ! ! !    +-----L_atifi   
+  ! ! ! 
+  ! +-8       +----------M_muscul  
+  !   !     +-9 
+  !   !     ! !   +-----I_iguana  
+  !   !  +-10 +---1 
+  !   !  !  !     +----A_crist   
+  !   !  !  !  
+  !   +-11  +-----------G_chinen  
+  !      !  
+  !      !  +---------L_boring  
+  !      +-12  
+  !         +--------B_micro   
+  ! 
+  6----------H_marmo   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             7            0.01867
+   7             2            0.06405
+   2          R_schleg        0.09087
+   2          R_denny         0.11713
+   7             8            0.01931
+   8             5            0.03604
+   5             4            0.01838
+   4          T_carni         0.10788
+   4          P_brev          0.12044
+   5             3            0.04037
+   3          S_salam         0.08674
+   3          L_atifi         0.10330
+   8            11            0.01760
+  11            10            0.01042
+  10             9            0.00891
+   9          M_muscul        0.17110
+   9             1            0.05714
+   1          I_iguana        0.10078
+   1          A_crist         0.09018
+  10          G_chinen        0.20116
+  11            12            0.00441
+  12          L_boring        0.17159
+  12          B_micro         0.16327
+   6          H_marmo         0.18774
+   6          C_chama         0.23673
+
+
+Data set # 92:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+            +------R_denny   
+      +-----1 
+      !     +----R_schleg  
+      ! 
+    +-9  +-----------L_boring  
+    ! !  !  
+    ! !  !  +---------B_micro   
+    ! +-10  !  
+    !    !  !      +------T_carni   
+    !    !  !    +-4 
+    !    +-12    ! +------P_brev    
+    !       !  +-5 
+    !       !  ! !  +-----S_salam   
+  +-8       !  ! +--3 
+  ! !       +-11    +----L_atifi   
+  ! !          !  
+  ! !          !    +----A_crist   
+  ! !          ! +--2 
+  ! !          +-6  +----I_iguana  
+  ! !            ! 
+  ! !            +---------M_muscul  
+  ! ! 
+  ! +------------H_marmo   
+  ! 
+  7-----------G_chinen  
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.01700
+   8             9            0.00570
+   9             1            0.09430
+   1          R_denny         0.11135
+   1          R_schleg        0.08948
+   9            10            0.01880
+  10          L_boring        0.19050
+  10            12            0.00680
+  12          B_micro         0.16428
+  12            11            0.00501
+  11             5            0.03421
+   5             4            0.01398
+   4          T_carni         0.11867
+   4          P_brev          0.11892
+   5             3            0.04978
+   3          S_salam         0.08963
+   3          L_atifi         0.08121
+  11             6            0.02183
+   6             2            0.05064
+   2          A_crist         0.09849
+   2          I_iguana        0.09866
+   6          M_muscul        0.17173
+   8          H_marmo         0.21311
+   7          G_chinen        0.19685
+   7          C_chama         0.24293
+
+
+Data set # 93:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+          +------------H_marmo   
+          !  
+       +-11      +-----R_schleg  
+       !  !  +---1 
+       !  +-10   +-------R_denny   
+    +-12     !  
+    !  !     +--------B_micro   
+    !  !  
+    !  ! +---------L_boring  
+    !  +-8 
+  +-9    +-----------M_muscul  
+  ! ! 
+  ! !   +-------T_carni   
+  ! ! +-4 
+  ! ! ! +-------P_brev    
+  ! +-6 
+  !   !  +----S_salam   
+  !   +--3 
+  !      +-----L_atifi   
+  ! 
+  !    +-----A_crist   
+  ! +--2 
+  7-5  +-----I_iguana  
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             9            0.01940
+   9            12            0.00952
+  12            11            0.00402
+  11          H_marmo         0.22215
+  11            10            0.00921
+  10             1            0.07808
+   1          R_schleg        0.09091
+   1          R_denny         0.12363
+  10          B_micro         0.15007
+  12             8            0.01223
+   8          L_boring        0.16456
+   8          M_muscul        0.19708
+   9             6            0.03327
+   6             4            0.02225
+   4          T_carni         0.11967
+   4          P_brev          0.12289
+   6             3            0.05044
+   3          S_salam         0.08360
+   3          L_atifi         0.09000
+   7             5            0.01838
+   5             2            0.05405
+   2          A_crist         0.08919
+   2          I_iguana        0.09671
+   5          G_chinen        0.18693
+   7          C_chama         0.23422
+
+
+Data set # 94:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +----R_schleg  
+  +---1 
+  !   +------R_denny   
+  ! 
+  ! +----------H_marmo   
+  ! ! 
+  ! !           +---I_iguana  
+  ! !       +---2 
+  ! !     +-7   +---A_crist   
+  ! !     ! ! 
+  8-9     ! +---------G_chinen  
+  ! !  +-12  
+  ! !  !  !  +---------L_boring  
+  ! !  !  +-10  
+  ! !  !     ! +--------M_muscul  
+  ! !  !     +-6 
+  ! +-11       +------B_micro   
+  !    !  
+  !    !   +----L_atifi   
+  !    ! +-3 
+  !    ! ! +-----S_salam   
+  !    +-5 
+  !      ! +------T_carni   
+  !      +-4 
+  !        +------P_brev    
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8             1            0.05854
+   1          R_schleg        0.08738
+   1          R_denny         0.12114
+   8             9            0.01200
+   9          H_marmo         0.19565
+   9            11            0.01360
+  11            12            0.00284
+  12             7            0.02450
+   7             2            0.05737
+   2          I_iguana        0.08133
+   2          A_crist         0.07128
+   7          G_chinen        0.16923
+  12            10            0.00960
+  10          L_boring        0.16679
+  10             6            0.02178
+   6          M_muscul        0.15817
+   6          B_micro         0.12818
+  11             5            0.04066
+   5             3            0.03866
+   3          L_atifi         0.08223
+   3          S_salam         0.09351
+   5             4            0.02379
+   4          T_carni         0.11559
+   4          P_brev          0.11490
+   8          C_chama         0.22728
+
+
+Data set # 95:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+         +----------M_muscul  
+         ! 
+       +-9   +----L_atifi   
+       ! ! +-3 
+       ! ! ! +----S_salam   
+       ! +-5 
+       !   ! +-------T_carni   
+    +-11   +-4 
+    !  !     +-------P_brev    
+    !  !  
+    !  !  +--------B_micro   
+    !  !  !  
+    !  +-12    +-------------H_marmo   
+  +-8     !  +-6 
+  ! !     !  ! !    +-------R_denny   
+  ! !     +-10 +----1 
+  ! !        !      +-----R_schleg  
+  ! !        !  
+  ! !        +---------L_boring  
+  ! ! 
+  ! +----------G_chinen  
+  ! 
+  !  +-----I_iguana  
+  7--2 
+  !  +-----A_crist   
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             8            0.01442
+   8            11            0.00797
+  11             9            0.00516
+   9          M_muscul        0.19242
+   9             5            0.04211
+   5             3            0.02507
+   3          L_atifi         0.09502
+   3          S_salam         0.09077
+   5             4            0.00774
+   4          T_carni         0.14014
+   4          P_brev          0.13665
+  11            12            0.00408
+  12          B_micro         0.15407
+  12            10            0.00513
+  10             6            0.02147
+   6          H_marmo         0.22567
+   6             1            0.08783
+   1          R_denny         0.12257
+   1          R_schleg        0.09905
+  10          L_boring        0.16362
+   8          G_chinen        0.18505
+   7             2            0.05218
+   2          I_iguana        0.10208
+   2          A_crist         0.09100
+   7          C_chama         0.23691
+
+
+Data set # 96:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +----------L_boring  
+       !  
+       !        +-----R_schleg  
+    +-11    +---1 
+    !  !  +-7   +-----R_denny   
+    !  !  ! ! 
+    !  +-12 +----------H_marmo   
+    !     !  
+    !     !  +--------B_micro   
+  +-9     +-10  
+  ! !        +---------M_muscul  
+  ! ! 
+  ! !   +----S_salam   
+  ! ! +-3 
+  ! ! ! +-----L_atifi   
+  ! +-5 
+  !   ! +------P_brev    
+  !   +-4 
+  !     +------T_carni   
+  ! 
+  ! +---------G_chinen  
+  8-6 
+  ! !  +----A_crist   
+  ! +--2 
+  !    +----I_iguana  
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   8             9            0.01266
+   9            11            0.00773
+  11          L_boring        0.17741
+  11            12            0.00419
+  12             7            0.01848
+   7             1            0.07096
+   1          R_schleg        0.10154
+   1          R_denny         0.10422
+   7          H_marmo         0.19482
+  12            10            0.00673
+  10          B_micro         0.15000
+  10          M_muscul        0.17477
+   9             5            0.04030
+   5             3            0.02800
+   3          S_salam         0.08748
+   3          L_atifi         0.09889
+   5             4            0.00691
+   4          P_brev          0.12464
+   4          T_carni         0.12653
+   8             6            0.01267
+   6          G_chinen        0.17546
+   6             2            0.05313
+   2          A_crist         0.09132
+   2          I_iguana        0.08299
+   8          C_chama         0.26517
+
+
+Data set # 97:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +------R_denny   
+  +----1 
+  !    +----R_schleg  
+  ! 
+  !      +---------L_boring  
+  !    +-8 
+  !    ! +-----------H_marmo   
+  !    !  
+  !    !          +----A_crist   
+  ! +-11       +--2 
+  ! !  !     +-6  +----I_iguana  
+  ! !  !     ! ! 
+  ! !  !  +-10 +-----------G_chinen  
+  ! !  !  !  !  
+  ! !  +-12  +-----------M_muscul  
+  7-9     !  
+  ! !     +--------B_micro   
+  ! ! 
+  ! !   +------T_carni   
+  ! ! +-4 
+  ! ! ! +-------P_brev    
+  ! +-5 
+  !   !  +----L_atifi   
+  !   +--3 
+  !      +----S_salam   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             1            0.08197
+   1          R_denny         0.11235
+   1          R_schleg        0.08852
+   7             9            0.02013
+   9            11            0.00771
+  11             8            0.01848
+   8          L_boring        0.17803
+   8          H_marmo         0.20559
+  11            12            0.00435
+  12            10            0.00702
+  10             6            0.02776
+   6             2            0.04362
+   2          A_crist         0.09668
+   2          I_iguana        0.08953
+   6          G_chinen        0.20580
+  10          M_muscul        0.18619
+  12          B_micro         0.15566
+   9             5            0.03619
+   5             4            0.01651
+   4          T_carni         0.11419
+   4          P_brev          0.13084
+   5             3            0.03624
+   3          L_atifi         0.08474
+   3          S_salam         0.08343
+   7          C_chama         0.25474
+
+
+Data set # 98:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+         +------R_denny   
+    +----2 
+    !    +-----R_schleg  
+    ! 
+    !         +-------T_carni   
+    !       +-4 
+  +-9       ! !   +----L_atifi   
+  ! !    +--5 +---1 
+  ! !    !  !     +----S_salam   
+  ! !  +-8  ! 
+  ! !  ! !  +-------P_brev    
+  ! !  ! ! 
+  ! +-10 +---------M_muscul  
+  !    !  
+  !    !  +----------B_micro   
+  !    +-11  
+  !       !  +----------L_boring  
+  !       +-12  
+  !          +-------------H_marmo   
+  ! 
+  ! +-----------G_chinen  
+  7-6 
+  ! !  +-----I_iguana  
+  ! +--3 
+  !    +-----A_crist   
+  ! 
+  +--------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7             9            0.02172
+   9             2            0.07622
+   2          R_denny         0.11691
+   2          R_schleg        0.11003
+   9            10            0.00774
+  10             8            0.01288
+   8             5            0.05238
+   5             4            0.01108
+   4          T_carni         0.12839
+   4             1            0.05338
+   1          L_atifi         0.08950
+   1          S_salam         0.08267
+   5          P_brev          0.14265
+   8          M_muscul        0.17798
+  10            11            0.00342
+  11          B_micro         0.17643
+  11            12            0.00237
+  12          L_boring        0.18444
+  12          H_marmo         0.23454
+   7             6            0.01246
+   6          G_chinen        0.20045
+   6             3            0.05276
+   3          I_iguana        0.10762
+   3          A_crist         0.10010
+   7          C_chama         0.25470
+
+
+Data set # 99:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+    +---------G_chinen  
+    ! 
+    !    +---------M_muscul  
+    !    ! 
+  +-7  +-9 +------P_brev    
+  ! !  ! ! ! 
+  ! !  ! +-5   +----L_atifi   
+  ! !  !   ! +-3 
+  ! !  !   +-4 +----S_salam   
+  ! +-10     ! 
+  !    !     +------T_carni   
+  !    !  
+  !    !  +---------B_micro   
+  !    +-11  
+  !       !  +---------L_boring  
+  !       +-12  
+  !          ! +----------H_marmo   
+  !          +-8 
+  !            !   +-----R_schleg  
+  !            +---1 
+  !                +-----R_denny   
+  ! 
+  !  +---A_crist   
+  6--2 
+  !  +-----I_iguana  
+  ! 
+  +-----------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             7            0.00893
+   7          G_chinen        0.18048
+   7            10            0.01630
+  10             9            0.00532
+   9          M_muscul        0.16122
+   9             5            0.02302
+   5          P_brev          0.11757
+   5             4            0.01103
+   4             3            0.03191
+   3          L_atifi         0.08823
+   3          S_salam         0.08144
+   4          T_carni         0.11932
+  10            11            0.01417
+  11          B_micro         0.15972
+  11            12            0.00289
+  12          L_boring        0.17917
+  12             8            0.01087
+   8          H_marmo         0.17645
+   8             1            0.06680
+   1          R_schleg        0.09278
+   1          R_denny         0.09640
+   6             2            0.04658
+   2          A_crist         0.07671
+   2          I_iguana        0.09729
+   6          C_chama         0.20617
+
+
+Data set # 100:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +-----------G_chinen  
+  ! 
+  !       +------T_carni   
+  !     +-4 
+  !     ! +-------P_brev    
+  !   +-5 
+  !   ! ! +----S_salam   
+  !   ! +-3 
+  !   !   +----L_atifi   
+  !   ! 
+  ! +-9        +-------------H_marmo   
+  ! ! !     +-10  
+  ! ! !     !  +---------L_boring  
+  ! ! !  +-12  
+  ! ! !  !  !   +------R_schleg  
+  ! ! +-11  +---1 
+  7-8    !      +-------R_denny   
+  ! !    !  
+  ! !    +--------B_micro   
+  ! ! 
+  ! !    +----A_crist   
+  ! ! +--2 
+  ! +-6  +----I_iguana  
+  !   ! 
+  !   +---------M_muscul  
+  ! 
+  +-------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   7          G_chinen        0.20452
+   7             8            0.01954
+   8             9            0.00641
+   9             5            0.03589
+   5             4            0.02190
+   4          T_carni         0.12192
+   4          P_brev          0.12695
+   5             3            0.03801
+   3          S_salam         0.08614
+   3          L_atifi         0.08956
+   9            11            0.02239
+  11            12            0.00575
+  12            10            0.01080
+  10          H_marmo         0.22726
+  10          L_boring        0.17450
+  12             1            0.06744
+   1          R_schleg        0.10661
+   1          R_denny         0.13229
+  11          B_micro         0.14642
+   8             6            0.02864
+   6             2            0.05406
+   2          A_crist         0.07841
+   2          I_iguana        0.08699
+   6          M_muscul        0.16987
+   7          C_chama         0.23289
+
+

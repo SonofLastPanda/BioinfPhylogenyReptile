@@ -1,0 +1,13 @@
+(Pyrococcus_sp:0.00407,Pyrococcus_horikoshii:0.00573,((((((((Methanococcus_jannaschii:0.01812,Methanococcus_infernus:0.03048):0.01250,
+(Methanococcus_igneus:0.02420,(Methanococcus_thermolithotrophicus:0.02168,(Methanococcus_aeolicus:0.03753,((Methanococcus_voltae:0.03817,
+Methanococcus_maripaludis:0.02103):0.00276,Methanococcus_vannielii:0.01959):0.01390):0.01010):0.03564):0.02448):0.03619,
+(((Halobacterium_sp.:0.00409,Halobacterium_AUS1:0.00471):0.00139,Halobacterium_AUS2:0.00471):0.07005,
+((Halobacterium_salinarum:0.00013,Halobacterium_cutirubrum:0.00057):0.00015,Halobacterium_halobium:0.00115):0.06360):0.14837):0.00942,
+((Archaeoglobus_veneficus:0.01155,Archaeoglobus_fulgidus:0.01105):0.02187,Ferroglobus_placidus:0.02273):0.06147):0.00719,
+((((Pyrobaculum_islandicum:0.00704,(Pyrobaculum_aerophilum:0.01213,Pyrobaculum_neutrophilum:0.00877):0.00521):0.07621,
+(((Pyrolobus_fumari:0.00917,Pyrodictium_occultum:0.01723):0.01998,Sulfophobococcus_zilligii:0.04832):0.00963,
+((((Seq30:0.01245,(Sulfolobus_shibatae:0.10714,Sulfolobus_solfataricus:0.00426):0.00635):0.03361,
+Sulfolobus_yangmingensis:0.04124):0.02039,(Sulfolobus_metallicus:0.07959,Sulfolobus_hakonensis:0.08161):0.00833):0.00316,
+Sulfolobus_acidocaldarius:0.03227):0.04032):0.01107):0.05454,Unknown_species:0.15135):0.00316,
+Thermotoga_maritima:0.30185):0.02160):0.05608,Pyrococcus_abyssi:0.00742):0.00497,(Pyrococcus_furiosus:0.00950,
+Pyrococcus_hellenicus:0.00700):0.00173):0.00222,Pyrococcus_shinkaii:0.01459):0.00086);

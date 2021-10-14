@@ -1,0 +1,71 @@
+
+  14 Populations
+
+Neighbor-Joining/UPGMA method version 3.697
+
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +--A_crist   
+  +-----1 
+  !     +---I_iguana  
+  ! 
+  ! +------------G_chinen  
+  ! ! 
+  ! !   +-------------M_muscul  
+  6-7   ! 
+  ! !   !         +--L_atifi   
+  ! !   !      +--3 
+  ! +---8      !  +--S_salam   
+  !     ! +----5 
+  !     ! !    ! +---P_brev    
+  !     ! !    +-4 
+  !     +-9      +----T_carni   
+  !       ! 
+  !       !  +---------B_micro   
+  !       +-12  
+  !          !  +----------L_boring  
+  !          +-11  
+  !             !  +----------H_marmo   
+  !             +-10  
+  !                !     +---R_denny   
+  !                +-----2 
+  !                      +--R_schleg  
+  ! 
+  +---------------C_chama   
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   6             1            0.09415
+   1          A_crist         0.06086
+   1          I_iguana        0.07609
+   6             7            0.01595
+   7          G_chinen        0.22406
+   7             8            0.06555
+   8          M_muscul        0.23020
+   8             9            0.00792
+   9             5            0.07555
+   5             3            0.05243
+   3          L_atifi         0.04601
+   3          S_salam         0.04967
+   5             4            0.02338
+   4          P_brev          0.06830
+   4          T_carni         0.07857
+   9            12            0.03681
+  12          B_micro         0.17432
+  12            11            0.00213
+  11          L_boring        0.18264
+  11            10            0.02103
+  10          H_marmo         0.18392
+  10             2            0.10286
+   2          R_denny         0.07016
+   2          R_schleg        0.05121
+   6          C_chama         0.26042
+
+
